@@ -1,0 +1,23 @@
+<!-- Sidebar Navigation -->
+
+{% set navPages = collections.all | eleventyNavigation %}
+
+
+	<div class="idocs-navigation bg-light">
+     <ul class="nav flex-column ">
+     {% macro renderNavListItem(entry) -%}
+
+      <li class="nav-item"><a class="nav-link{% if entry.url == page.url %} active{% endif %}" href="{{ entry.url | url }}">{{ entry.title }}</a>
+      </li>
+      {%- if entry.children.length -%}
+        <ul class="nav flex-column">
+          {%- for child in entry.children %}{{ renderNavListItem(child) }}{% endfor -%}
+        </ul>
+      {%- endif -%}
+      </li>
+    {%- endmacro %}
+    </ul>
+    <ul class="nav flex-column ">
+    {%- for entry in navPages %}{{ renderNavListItem(entry) }}{%- endfor -%}
+    </ul>
+  </div>
