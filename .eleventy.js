@@ -6,6 +6,7 @@ module.exports = function (eleventyConfig) {
 
     eleventyConfig.setTemplateFormats("html, md, njk");
     eleventyConfig.addPassthroughCopy("content/assets");
+    //eleventyConfig.addShortcode("myPrefix", () => process.env.MY_PREFIX);
 
     eleventyConfig.addPlugin(eleventyNavigationPlugin);
 
@@ -30,6 +31,7 @@ module.exports = function (eleventyConfig) {
       dir: {
         input: "content",
         output: "docs"
-      }
+      }, 
+      pathPrefix: process.env.MY_PREFIX
     }
   }
