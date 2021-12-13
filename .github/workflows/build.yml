@@ -24,7 +24,7 @@ jobs:
       - name: Install dependencies & build
         run: |
           npm install
-          npx eleventy
+          npx eleventy --pathprefix 'rh-docs'
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
