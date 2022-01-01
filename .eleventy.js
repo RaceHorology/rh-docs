@@ -6,15 +6,16 @@ module.exports = function (eleventyConfig) {
 
     eleventyConfig.setTemplateFormats("html, md, njk");
     eleventyConfig.addPassthroughCopy("content/assets");
-    //eleventyConfig.addShortcode("myPrefix", () => process.env.MY_PREFIX);
 
+    //eleventyConfig.addShortcode("myPrefix", () => process.env.MY_PREFIX);
+    
     eleventyConfig.addPlugin(eleventyNavigationPlugin);
 
     // set 404 config for GitHub Pages
     eleventyConfig.setBrowserSyncConfig({  
       callbacks: {    
         ready: function(err, browserSync) {
-          const content_404 = fs.readFileSync('docs/404.html');
+          const content_404 = fs.readFileSync('404.html');
       
           browserSync.addMiddleware("*", (req, res) => {
             // Provides the 404 content without redirect.        
