@@ -36,7 +36,7 @@ Um ein Rennen zu löschen drücken sie auf das X im zu löschenden Renn-Tab. Nac
 Die Rennkonfiguration gibt an, wie ein Rennen ausgewertet werden soll und welche Datenfelder benutzt werden. Beispielparameter einer Rennkonfiguration sind: Anzahl der Durchgänge, Sortierung der Startliste, Gruppierungen für Startliste bzw. die Ergebnisse, verwendete Datenfelder. Auch DSV-spezifische Wert wie F-Wert, Adder und Minimumzuschlag sind Teil der Rennkonfiguration.
 Die Rennkonfiguration befindet sich im Tab „Konfiguration“ des entsprechenden Rennens.
  
-![Rennkonfiguration](/assets/images/de/wettbewerb_rennen_bild1.png)
+![Rennkonfiguration](../../assets/images/de/wettbewerb_rennen_bild1.png)
 
 Um nicht jedes Mal eine komplette Rennkonfiguration eingeben zu müssen, kann die Rennkonfiguration aus einem Template erstellt werden. Beispieltemplates sind DSV Schüler, Skiverbandsrennen, Vereinsrennen.
 Die Rennkonfiguration wird erst übernommen, wenn Speichern gedrückt wird.

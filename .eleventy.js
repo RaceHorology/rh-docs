@@ -1,11 +1,9 @@
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 
-
-
 module.exports = function (eleventyConfig) {
 
     eleventyConfig.setTemplateFormats("html, md, njk");
-    eleventyConfig.addPassthroughCopy("content/assets");
+    eleventyConfig.addPassthroughCopy("assets");
 
     //eleventyConfig.addShortcode("myPrefix", () => process.env.MY_PREFIX);
     

@@ -13,7 +13,7 @@ Race Horology unterscheidet zwischen Teilnehmer für einen Wettbewerb und Teilne
 
 ### Erstellen und Editieren von Klassen und Gruppen
 
-![Teilnehmer](/assets/images/de/teilnehmer_bild1.png)
+![Teilnehmer](../../assets/images/de/teilnehmer_bild1.png)
 
 Das Erstellen und Editieren von Gruppen findet man in der Tabelle **Teilnehmerdaten** und der Sub-Tabelle **Klassen und Gruppen**. 
 
@@ -27,7 +27,7 @@ Mittels Drag and Drop können die Einträge verschoben werden, um die Reihenfolg
 
 ###	Erstellen und Editieren von Kategorien
 
-![Kategorien](/assets/images/de/kategorien.png)
+![Kategorien](../../assets/images/de/kategorien.png)
 
 Kategorien werden wie Klassen und Gruppen editiert. Standardmäßig sind bereits gebräuchliche Kategorien definiert. Sie müssen daher deutlich weniger angepasst werden.
 
@@ -58,7 +58,7 @@ Drücken Sie dazu entweder **Importieren und Ersetzen** oder **Importieren und H
 
 ###	Klassen und Gruppen zuweisen
 
-![Kategorien](/assets/images/de/teilnehmer_aendern.png)
+![Kategorien](../../assets/images/de/teilnehmer_aendern.png)
 
 Klassen und Gruppen müssen typischerweise nicht neu zugewiesen werden, da diese durch den Jahrgang festgelegt ist und automatisch zugewiesen werden. Dennoch gibt es folgende Möglichkei-ten die Klasse einem Teilnehmer zuzuweisen:
 
@@ -76,7 +76,7 @@ Der Button **Klassen neu zuweisen** setzt die Klassen alle Teilnehmer auf Basis 
 
 ##	Teilnehmer manuell hinzufügen, ändern und löschen
 
-![Kategorien](/assets/images/de/teilnehmerdaten.png)
+![Kategorien](../../assets/images/de/teilnehmerdaten.png)
 
 Teilnehmer können in der Tabelle **Teilnehmerdaten** und Subtabelle **Teilnehmer** editiert werden. Teilnehmerdaten können sowohl direkt in der Tabelle (auf ein Feld Doppelklicken, um den Editiermo-dus zu aktivieren) als auch in der daneben befindlichen Detailansicht editiert werden.
 
@@ -109,7 +109,7 @@ Folgende Importformate werden von Race Horology unterstützt:
 -	Excel (XLS, XLSX)
 - DSV Alpin ZIP Import Files
 
-![Daten-Import](/assets/images/de/datenimport.png)
+![Daten-Import](../../assets/images/de/datenimport.png)
 
 Der Import-Wizard wird gestartet über den Button **Import** im Tab **Teilnehmer**. Nach dem Auswählen der Datei wird der Import-Wizard angezeigt. 
 
@@ -129,7 +129,7 @@ Im unteren rechten Bereich wird angegeben, zu welchem Rennen die Teilnehmer zuge
 
 ##	Startnummernvergabe
 
-![Daten-Import](/assets/images/de/startnummernvergabe.png)
+![Daten-Import](../../assets/images/de/startnummernvergabe.png)
 
 Die Startnummern werden pro Rennen den Teilnehmern zugewiesen. Dies erfolgt über die entsprechende **Renntabelle** in der Subtabelle **Startnummern**. Die Startnummern können manuell oder au-tomatisch per Zufall (Verlosung) vergeben werden.
 

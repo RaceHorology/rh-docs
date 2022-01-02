@@ -7,7 +7,7 @@ eleventyNavigation:
 
 # Renndurchführung
 
-![Zeitnahmetab](/assets/images/de/zeitnahmetab.png)
+![Zeitnahmetab](../../assets/images/de/zeitnahmetab.png)
 
 Die Renndurchführung wird primär über die beiden Tabs Zeitnahme und Disqualifikation durchgeführt.
 
@@ -27,7 +27,7 @@ Der Zeitnahmebereich zeigt drei Listen an:
 
 Um die Zeiten direkt aus dem Zeitnahmegerät während des Rennens zu übernehmen muss man Online Gehen. Das Online Gehen erfolgt über den **Play** Button im Zeitnahmebereich in der Statuszeile des Programms. 
 
-![Zeitnahmetab](/assets/images/de/statuszeile.png)
+![Zeitnahmetab](../../assets/images/de/statuszeile.png)
 
 **Hinweis:** Wenn man online ist, ist es nicht möglich den aktuellen Durchgang zu wechseln. Um den Durchgang zu wechseln, gehen Sie Offline, wechseln Sie den Durchgang und gehen danach wieder Online.
 
@@ -63,7 +63,7 @@ Es existieren folgende Tastenkürzel auf dem Zeitnahme Tab, um mit dem Programm 
 
 ### Manuelle Zeiterfassung
 
-![Zeitnahmetab](/assets/images/de/manuellezeiterfassung.png)
+![Zeitnahmetab](../../assets/images/de/manuellezeiterfassung.png)
 
 Neben der Online Zeiterfassung kann man die Zeiten auch manuell erfassen. Dies kann zum Beispiel erforderlich sein, wenn die Übertragung zum Zeitnahmegerät nicht einwandfrei funktioniert oder eine Zeit manuell korrigiert werden muss oder man nicht Online war.
 
@@ -126,7 +126,7 @@ Race Horology unterstützt verschiedene Live Timing Plattformen um das Renngesch
 
 ###	rennmeldung.de
 
-![Zeitnahmetab](/assets/images/de/rennmeldung.png)
+![Zeitnahmetab](../../assets/images/de/rennmeldung.png)
 
 Um das Livetiming von https://rennmeldung.de zu nutzen gehen Sie wie folgt vor:
 
@@ -138,7 +138,7 @@ Um das Livetiming von https://rennmeldung.de zu nutzen gehen Sie wie folgt vor:
 
 Jede Änderung, die ab sofort passiert, wird unmittelbar an rennmeldung.de übertragen und ist somit für die renninteressierten Zuschauer sofort sichtbar.
 
-![Zeitnahmetab](/assets/images/de/livetimingstatus.png)
+![Zeitnahmetab](../../assets/images/de/livetimingstatus.png)
 
 Weiterhin ist es möglich einen Status bzw. Kommentar für die Zuschauer zu hinterlassen. Geben Sie diesen in dem unteren Feld „Live Timing – Status“ ein. Der Text wird automatisch übertragen.
 
@@ -152,7 +152,7 @@ Race Horology unterstützt die Berechnung einer Ersatzzeit nach der IWO, Regel 6
 
 In die Handzeitberechnung gelangt man über die Tabelle **Zeitnahme** eines entsprechenden Rennens und den Button **Handzeit**.
 
-![Zeitnahmetab](/assets/images/de/handzeit.png)
+![Zeitnahmetab](../../assets/images/de/handzeit.png)
  
 ###	Handzeit laden
 Um die Handzeit zu laden, gehen Sie wie folgt vor:
@@ -165,7 +165,7 @@ Um die Handzeit zu laden, gehen Sie wie folgt vor:
 
 ###	Handzeit berechnen
 
-![Zeitnahmetab](/assets/images/de/handzeitberechnen.png)
+![Zeitnahmetab](../../assets/images/de/handzeitberechnen.png)
 
 Um eine Handzeit zu berechnen, gehen Sie wie folgt vor:
 

@@ -19,7 +19,7 @@ Man muss dazu die Webadresse im folgenden Format aufrufen:
 
 Zur Vereinfachung zeigt Race Horology die Webadresse unten rechts im Statusbereich an. Zusätzlich ist dort ein QR Code abgebildet, sodass man mit einem Tablet oder Handy mit Kamera sehr einfach die Webadresse aufrufen kann. Man muss dazu je nach Tablet oder Handy mit der Kamera-App den QR Code erfassen.
 
-![Zeitnahmetab](/assets/images/de/qrcode.png)
+![Zeitnahmetab](../../assets/images/de/qrcode.png)
 
 ##	Empfohlene Netzwerk Setups
 

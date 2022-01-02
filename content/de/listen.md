@@ -7,7 +7,7 @@ eleventyNavigation:
 
 # Listen
 
-![Listen](/assets/images/de/listen.png)
+![Listen](../../assets/images/de/listen.png)
 
 ## Listen anzeigen
 
