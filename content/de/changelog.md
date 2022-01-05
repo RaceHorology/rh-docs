@@ -7,6 +7,40 @@ eleventyNavigation:
 
 # Änderungshistorie / Changelog
 
+## 0.4.0-alpha.1
+
+**Datum:** 27.02.2021
+
+**Zeitnahme**
+
+NEU: Unterstützen einer beliebigen Anzahl von Durchgängen (inkl. neuer Wertung "sum of best two"))(issue #17)
+
+NEU: Berechnung der Zeitdifferenz zu Platz 1 in Prozent (issue #132)
+
+NEU: Zeiten können gelöscht werden (issue #92)
+
+GEÄNDERT: Zeitnahme zeigt unten jetzt die Läufer im Ziel (nicht mehr das Ergebnis, das ist auf der rechten Bildschirmhälfte zu sehen)(issue #32)
+
+GEÄNDERT: Disqualifikationseingabe verbessert, u.a. vordefinierte Gründe, Tornummer separat (issue #40)
+
+GEÄNDERT: Erneuter Start eines vermeintlich ausgeschiedenen Teilnehmers führt zur Löschung der Ausscheidung (issue #47)
+
+GEÄNDERT: Manuelle Zeiteingabe unterstützt auch Sekundenangaben größer als 60s (issue #134)
+
+GEÄNDERT: Allgemeine Verbesserungen bei manueller Zeiteingabe / Zeitmessung (issues #135, #133)
+
+**Import & Export**
+
+GEÄNDERT: DSV Import - Hinzufügen von Teilnehmern mit Doppelklick möglich (issue #125)
+
+GEÄNDERT: Falls DSV Import gemacht wurde, werden Teilnehmer die nicht in der DSV Liste sind, farbig markiert (issue #121)
+
+GEÄNDERT: DSV XML Export - Vorname und Nachname werden korrekt exportiert (issue #122)
+
+BUGFIX: Teilnehmer nicht richtig gelöscht
+
+[Detaillierte Liste der Änderungen (seit 0.3.0-beta.1)](https://github.com/svenflossmann/RaceHorology/issues?q=closed%3A2020-12-31..2021-02-27+sort%3Aupdated-desc+)
+
 ## 0.3.0-beta.1
 
 **Datum:** 31.12.2020
