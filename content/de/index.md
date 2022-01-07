@@ -5,7 +5,9 @@ eleventyNavigation:
   order: 1
 ---
 
-# Race Horology Dokumentation 
+# Dokumentation 
+
+![Race Horology Splash Screen](../../assets/images/SplashScreen.png)
 
 Race Horology ist ein Zeitnahmeprogramm (aktuell vorwiegend für Alpine Skiformen) - kompatibel mit "DSV Alpin"
 
