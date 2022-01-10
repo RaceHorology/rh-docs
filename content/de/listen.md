@@ -14,12 +14,18 @@ eleventyNavigation:
 Race Horology zeigt auf der rechten Hälfte der Anwendung die aktuellen Start- oder Ergebnislisten. Den Listentyp kann oben rechts ausgewählt werden. Ausgewählt werden können:
 
 -	Startliste 1. Durchgang
+
 -	Ergebnis 1. Durchgang
+
 -	Startliste 2. Durchgang
+
 -	Ergebnis 2. Durchgang
+
+- Startliste und Ergebnis weiterer Durchgänge (wenn vorhanden)
+
 -	Rennergebnis
 
-Die Gruppierung kann direkt daneben ausgewählt werden. Standardmäßig werden die Listen entsprechend der Rennkonfiguration (LINK EINFÜGEN) gruppiert. 
+Die Gruppierung kann direkt daneben ausgewählt werden. Standardmäßig werden die Listen entsprechend der [Rennkonfiguration](../wettbewerb_rennen) gruppiert. 
 
 ##	Listen drucken
 

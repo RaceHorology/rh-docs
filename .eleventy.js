@@ -5,6 +5,10 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.setTemplateFormats("html, md, njk");
     eleventyConfig.addPassthroughCopy("assets");
 
+    // passthrough files that are required for GitHub Pages support
+    eleventyConfig.addPassthroughCopy("CNAME");
+    eleventyConfig.addPassthroughCopy(".nojekyll");
+
     //eleventyConfig.addShortcode("myPrefix", () => process.env.MY_PREFIX);
     
     eleventyConfig.addPlugin(eleventyNavigationPlugin);
