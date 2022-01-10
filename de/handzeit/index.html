@@ -8,7 +8,7 @@
 <meta name="description" content="Race Horology Documentation">
 <meta name="author" content="Race Horology Development Team">
 
-<!-- Build time: 1/10/2022, 7:35:07 PM-->
+<!-- Build time: 1/10/2022, 10:08:58 PM-->
 
 <link href="/assets/images/favicon.png" rel="icon" />
 
@@ -102,23 +102,43 @@
 <h2>Handzeit- / Ersatzzeitberechnung</h2>
 <p>Race Horology unterstützt die Berechnung einer Ersatzzeit nach der IWO, Regel 611.3.2.1.</p>
 <p>In die Handzeitberechnung gelangt man über das Menü <strong>Werkzeuge</strong> und die Funktion <strong>Handzeit berechnen</strong>.</p>
+<p><strong>Hinweis:</strong> Für die Handzeitberechnung ist ein anderer COM-Port (Serielles Interface) als die normale Zeitnahme nötig!</p>
 <p><img src="../../assets/images/de/handzeit.png" alt="Zeitnahmetab"></p>
 <h3>Handzeit laden</h3>
 <p>Um die Handzeit zu laden, gehen Sie wie folgt vor:</p>
 <ul>
-<li>Stellen Sie sicher, dass der korrekte Lauf ausgewählt ist.</li>
-<li>Stellen Sie sicher, dass die richtige Zeit (Start oder Ziel) ausgewählt ist.</li>
-<li>Wählen sie das entsprechende Gerät (ALGE Timy, Tag Heuer oder aus Datei laden) aus.</li>
-<li>Wählen sie den richtigen <strong>COM-Port</strong> aus.</li>
-<li>Starten sie den Ladevorgang mit <strong>Laden</strong>.</li>
+<li>
+<p>Stellen Sie sicher, dass der korrekte Lauf ausgewählt ist.</p>
+</li>
+<li>
+<p>Stellen Sie sicher, dass die richtige Spalte (Start oder Ziel) ausgewählt ist.</p>
+</li>
+<li>
+<p>Wählen sie das entsprechende Gerät (ALGE Timy, Tag Heuer oder aus Datei laden) aus.</p>
+</li>
+<li>
+<p>Wählen sie den richtigen <strong>COM-Port</strong> aus. (nicht bei Datei)</p>
+</li>
+<li>
+<p>Starten sie den Ladevorgang mit <strong>Laden</strong>.</p>
+</li>
+<li>
+<p>Sie können diesen Vorgang mehrmals wiederholen - die neuen Zeiten werden dann zu bereits vorhandenen Zeiten zur Tabelle hinzugefügt.</p>
+</li>
 </ul>
 <h3>Handzeit berechnen</h3>
-<p><img src="../../assets/images/de/handzeitberechnen.png" alt="Zeitnahmetab"></p>
+<p><img src="../../assets/images/de/handzeitberechnen.png" alt="Handzeit berechnen"></p>
 <p>Um eine Handzeit zu berechnen, gehen Sie wie folgt vor:</p>
 <ul>
-<li>Stellen Sie sicher, dass die Handzeiten geladen wurden.</li>
-<li>Markieren Sie die Handzeit, die verwendet werden soll. Normalerweise ist hier noch keine Startnummer zugewiesen.</li>
-<li>Weisen Sie der markierten Handzeit die korrekte Startnummer zu indem Sie:</li>
+<li>
+<p>Stellen Sie sicher, dass die Handzeiten geladen wurden.</p>
+</li>
+<li>
+<p>Markieren Sie die Handzeit, die verwendet werden soll. Normalerweise ist hier noch keine Startnummer zugewiesen.</p>
+</li>
+<li>
+<p>Weisen Sie der markierten Handzeit die korrekte Startnummer zu indem Sie:</p>
+</li>
 </ul>
 <p>o	Die Handzeit markieren</p>
 <p>o	Die korrekte Startnummer eintragen</p>
@@ -132,9 +152,19 @@
 <p>Mit dem Berechnen wird automatisch ein PDF erzeugt, dass die Zeiten, die zur Berechnung genutzt wurden, enthält.</p>
 <p><img src="../../assets/images/de/handzeit_pdf.png" alt="Handzeit PDF Ausgabe"></p>
 <ul>
-<li>Sie können jetzt weitere Handzeiten berechnen, machen Sie dazu einfach weitere Zuwei-sungen bzw. Berechnungen.</li>
-<li>Um die berechneten Handzeiten zu übernehmen, drücken Sie <strong>Speichern</strong>.</li>
+<li>
+<p>Sie können jetzt weitere Handzeiten berechnen, machen Sie dazu einfach weitere Zuweisungen bzw. Berechnungen.</p>
+</li>
+<li>
+<p>Um die berechneten Handzeiten zu übernehmen, drücken Sie <strong>Speichern</strong>.</p>
+</li>
 </ul>
+<h3>Handzeiten löschen</h3>
+<p>Es ist möglich bereits geladene Zeiten zu löschen.</p>
+<ul>
+<li>Klicken Sie auf <strong>Handzeiten löschen</strong></li>
+</ul>
+<p><strong>Achtung:</strong> Es werden <em>alle</em> Zeiten gelöscht</p>
 
 
         </section>
