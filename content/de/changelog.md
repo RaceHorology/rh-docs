@@ -7,6 +7,56 @@ eleventyNavigation:
 
 # Änderungshistorie / Changelog
 
+## 0.4.6
+
+**Datum:** 20.01.2022
+
+Folgende Änderungen sind in dieser Version seit der Version 0.4.5 enthalten:
+
+**Neue Features**
+
+- Classement Empfang der ALGE TdC8000/8001
+
+- Bewerbe erstellt mit RaceHorology können in DSVAlpinX bzw. DSVAlpin geöffnet werden
+
+**User Interface Verbesserungen**
+
+- Hauptfenster wird im Vollbildmodus gestartet bzw. die letzte Fensterposition wird gespeichert
+
+- Einschränkung der Suche in DSV/FIS Listen nach Feld
+
+- Hinweise / Warnung falls Zeitnahme online geht und vorheriger Durchgang nicht abgeschlossen wurde
+
+- kleiner UI Verbesserungen im Zeitnahme / Livetiming Tab
+
+- Livetiming Konfiguration kann gespeichert werden ohne Livetiming zu starten
+
+**DSV / FIS**
+
+- Korrektur der FIS Konfiguration Templates
+
+**Sonstige Bugfixes**
+
+- Livetiming für rennmeldung.de benötigt keine DSVAlpinX Lizenz mehr
+
+- Verbesserung der Kompatibilität mit DSVAlpin wenn Bewerbe in Race Horology angelegt werden
+  
+  Hierbei: Einführung einer globalen Konfiguration
+
+- Auslosungsbuttons sind bei kleinem Bildschirm nicht sichtbar
+
+- Rennpunkte erscheinen auf Ergebnisliste nicht, wenn Bewerb frisch geladen wurde
+
+- Listentitel erscheint manchmal nicht komplett (i.B. bei mehr als zwei Zeilen)
+
+- Rennkonfiguration usw. werden in der Datenbank direkt gespeichert (keine separaten Files mehr)
+
+- Startreihenfolge bei DSV Schülerrennen für die 2. und nachfolgende Gruppe war komplett falsch
+
+- Korrektur der Startreihenfolge im 2. Durchgang bei gleicher Platzierung im 1. DG
+
+Die Detaillierte Liste der Änderungen ist hier: [Link](https://github.com/RaceHorology/RaceHorology/issues?q=closed%3A2021-11-19..2022-01-20+sort%3Aupdated-desc+is%3Aissue+)
+
 ## 0.4.5
 
 **Datum:** 18.11.2021
