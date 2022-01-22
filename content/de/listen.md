@@ -11,15 +11,13 @@ eleventyNavigation:
 
 ## Listen anzeigen
 
-Race Horology zeigt auf der rechten Hälfte der Anwendung die aktuellen Start- oder Ergebnislisten. Den Listentyp kann oben rechts ausgewählt werden. Ausgewählt werden können:
+Race Horology zeigt auf der rechten Hälfte der Anwendung die aktuellen Start- oder Ergebnislisten. Den Listentyp kann oben links ausgewählt werden. Zur Verfügung stehen:
 
--	Startliste 1. Durchgang
+-	Teilnehmer
+
+- Startliste 1. Durchgang
 
 -	Ergebnis 1. Durchgang
-
--	Startliste 2. Durchgang
-
--	Ergebnis 2. Durchgang
 
 - Startliste und Ergebnis weiterer Durchgänge (wenn vorhanden)
 
