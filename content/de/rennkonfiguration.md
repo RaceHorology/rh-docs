@@ -17,7 +17,7 @@ Die Rennkonfiguration befindet sich z.B. im Tab „Konfiguration“ des entsprec
 
 Derzeit gibt es sowohl eine *Globale Konfiguration* als auch eine *Lokale Konfiguration*. 
 
-Die Globale Konfiguration gilt für alle Rennen, die in einer Bewerbsdatei angelegt sind (z. B. Slalom) kann aber in einer weiteren Einstellungsseite im Rennen selbst überschrieben werden. Welche Konfiguration gültig ist kann man anhand eines Symbol (entweder blau oder rot) mit dem Buchstaben **G** oder **L** erkennen. 
+Die Globale Konfiguration gilt für alle Rennen, die in einer Bewerbsdatei angelegt sind (z. B. Slalom) kann aber in einer weiteren Einstellungsseite im Rennen selbst überschrieben werden. Welche Konfiguration gültig ist, kann man anhand eines Symbol (entweder blau oder rot) mit dem Buchstaben **G** oder **L** erkennen. 
 
 Soll in einem Rennen die Globale Konfiguration wieder genutzt werden, so ist dies über den Button **Globale Konfiguration nutzen** möglich. 
 
@@ -53,7 +53,7 @@ Wie Summe, jedoch wird zusätzlich beim Druck die Punkteberechnung mit ausgegebe
 
 ## Durchgang 1 
 
-Die Gruppierung ist vor allem für die Startnummernergabe ausschlaggebend. Folgende Gruppierungen sind vorhanden:
+Die Gruppierung ist vor allem für die Startnummernvergabe ausschlaggebend. Folgende Gruppierungen sind vorhanden:
 
 ###### ---
 
@@ -79,7 +79,7 @@ Die Teilnehmer werden nach Kategorie gruppiert (z.B.: Damen).
 
 ### Startsortierung
 
-Hier kann eingestellt werden, wie die Startliste aufgebaut wird. Entweder nach *Startnumer (aufsteigend)* oder nach Punkten (z.B. bei FIS-Rennen).
+Hier kann eingestellt werden, wie die Startliste aufgebaut wird. Entweder nach *Startnummer (aufsteigend)* oder nach Punkten (z.B. bei FIS-Rennen).
 
 ## Durchgang 2 (wenn vorhanden und weitere Durchgänge)
 
@@ -127,4 +127,4 @@ Die Rennkonfiguration wird erst übernommen, wenn der Button **Speichern** gedr�
 
 ## Zurücksetzen
 
-Über den Button **Zurücksetzen** kann man die ungespeicherten Änderungen wieder rückgängig machen. Es werden dann die ursprünglichen Werte wieder angezeigt. 
+Über den Button **Zurücksetzen** kann man die ungesicherten Änderungen wieder rückgängig machen. Es werden dann die ursprünglichen Werte wieder angezeigt. 
