@@ -119,6 +119,8 @@ Folgende Daten können eingegeben werden:
 
 - Maximalwert
 
+**Achtung:** Sollte der Maximalwert auf 0 sein, so wird auch in der Punkteberechnung überall 0 verwendet. Es sollte deshalb in der Regel immer ein Maximalwert eingegeben werden (z. B. 250 bei DSV Rennen)
+
 ## Rennkonfiguration übernehmen
 
 Die Rennkonfiguration wird erst übernommen, wenn der Button **Speichern** gedrückt wird.
