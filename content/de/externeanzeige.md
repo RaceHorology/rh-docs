@@ -5,7 +5,7 @@ eleventyNavigation:
   order: 7
 ---
 
-# Externe Anzeige via Tablet oder Monitor
+# Externe Anzeige (Sprecheransicht) via Tablet oder Monitor
 
 ##	Aufrufen der externen Anzeige
 
