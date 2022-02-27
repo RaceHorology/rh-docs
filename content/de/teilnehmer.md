@@ -23,7 +23,7 @@ Es ist auch möglich mehrere Teilnehmer gleichzeitig zu ändern. Dies kann hilfr
 
 -	Selektieren Sie die zu bearbeitenden Teilnehmer in der Tabelle (<Shift> oder <Strg> beim Auswählen halten).
 
--	Verändern Sie die Felder in der Detailansicht. Die Änderungen werden bei allen ausgewählten Teilnehmern sichtbar, sobald der Cursor das Feld verlassen hat (sie also irgendwo an-ders hingedrückt haben).
+-	Verändern Sie die Felder in der Detailansicht. Die Änderungen werden bei allen ausgewählten Teilnehmern sichtbar, sobald der Cursor das Feld verlassen hat (sie also irgendwo anders hingedrückt haben).
 
 ##	Teilnehmer einem Rennen zuweisen
 
@@ -52,7 +52,7 @@ Im linken Bereich befindet sich die Datenvorschau. Sie zeigt die zu importierend
 
 Im rechten Bereich befindet sich oben die **Datenfeldzuordnung**. Pro Race Horology Datenfeld kann ein Datenimportfeld ausgewählt werden. Stellen Sie hier die korrekte Feldzuordnung sicher.
 
-**Hinweis:** Die Datenfeldzuordnung versucht eine sinnvolle Datenzuordnung auf Basis der Feldbe-zeichnungen zu erraten.
+**Hinweis:** Die Datenfeldzuordnung versucht eine sinnvolle Datenzuordnung auf Basis der Feldbezeichnungen zu erraten.
 
 Im unteren rechten Bereich wird angegeben, zu welchem Rennen die Teilnehmer zugeordnet werden sollen. Aktivieren Sie die Rennen, zu denen die Teilnehmer importiert werden sollen – per Default sind dies alle.
 
@@ -73,3 +73,7 @@ Der Button **Zurücksetzen** setzt die Klasse für den aktuellen Teilnehmer wied
 -	Klassen aller Teilnehmer zurücksetzen
 
 Der Button **Klassen neu zuweisen** setzt die Klassen alle Teilnehmer auf Basis des Jahrgangs zurück.
+
+## Automatischer Abgleich mit Punkteliste
+
+Sind Teilnehmer über eine Punkteliste importiert und haben sich Daten geändert, so wird die jeweilige Tabellenzeile orangefarben hinterlegt. Beispiele sind z.b. falscher Name, Vorname oder geänderte Punkte die noch nicht aktualisiert wurden.
