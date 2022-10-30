@@ -19,3 +19,10 @@ eleventyNavigation:
 
 - Einfacher Berichtedruck inklusive Schiedsrichter-Report
 
+![Aktueller Stand)](../../assets/images/de/aktuellerstand.png)
+
+## Fehlende Funktionen
+
+Nicht alle benötigten Funktionen sind bereits (komplett) eingebaut. So z. B. die Mannschaftswertungen. Mit der Zeit werden diese Funktionen nachgereicht. 
+
+Für diese Funktionen ist es weiterhin möglich den Bewerb im Programm "DSV Alpin" zu öffnen und dort zu bearbeiten. 
