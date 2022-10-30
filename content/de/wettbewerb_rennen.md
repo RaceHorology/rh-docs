@@ -17,13 +17,13 @@ Im darauffolgenden Dialog muss ein Dateiname angeben werden. Wird eine existiere
 
 ## Rennen anlegen
 
-Ein Rennen wird über den Tab „Neue Disziplin angelegt.
+Ein Rennen wird über den Tab "Neue Disziplin" angelegt.
 
-•	Wechseln sie auf den Tab „Neue Disziplin.
+•	Wechseln sie auf den Tab "Neue Disziplin".
 
 •	Wählen sie den Renntyp (z.B.: Riesenslalom, Slalom).
 
-•	Drücken sie "Erstellen“.
+•	Drücken sie "Erstellen".
 
 Es erscheint ein neuer Tab mit dem gerade erstellten Rennen.
 
