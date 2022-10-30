@@ -1,7 +1,7 @@
 ---
 layout: layouts/docs.njk
 eleventyNavigation:
-  key: Berichte & Drucken
+  key: Berichte und Drucken
   order: 9
 ---
 
@@ -11,7 +11,7 @@ eleventyNavigation:
 
 ## Berichte anzeigen
 
-Race Horology zeigt auf der rechten Hälfte unter dem Tab "Berichte & Drucken" der Anwendung die Vorschau der Listen. Der Listentyp und der gewünschte Durchgang kann oben links ausgewählt werden. Zur Verfügung stehen:
+Race Horology zeigt auf der rechten Hälfte unter dem Tab "Berichte und Drucken" der Anwendung die Vorschau der Listen. Der Listentyp und der gewünschte Durchgang kann oben links ausgewählt werden. Zur Verfügung stehen:
 
 -	Ergebnisliste
 
