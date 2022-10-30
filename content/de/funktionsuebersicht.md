@@ -9,6 +9,10 @@ eleventyNavigation:
 
 - Übersichtlichere Zeitnahme mit mehreren Durchgängen
 
+Die Zeitnahme ist aktuell mit ALGE TdC 8000/8001 sowie Alpenhunde möglich
+
+- Handzeitberechnung (ALG Timmy sowie Tag Heuer Pocket Pro)
+
 - DSV Punkteberechnung
 
 - Live Timing
@@ -25,4 +29,4 @@ eleventyNavigation:
 
 Nicht alle benötigten Funktionen sind bereits (komplett) eingebaut. So z. B. die Mannschaftswertungen. Mit der Zeit werden diese Funktionen nachgereicht. 
 
-Für diese Funktionen ist es weiterhin möglich den Bewerb im Programm "DSV Alpin" zu öffnen und dort zu bearbeiten. 
+Für diese Funktionen ist es weiterhin möglich die Datei im Programm "DSV Alpin" zu öffnen und dort zu bearbeiten. 
