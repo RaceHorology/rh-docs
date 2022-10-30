@@ -2,7 +2,7 @@
 layout: layouts/docs.njk
 eleventyNavigation:
   key: Anmerkungen
-  order: 10
+  order: 11
 ---
 
 # Anmerkungen

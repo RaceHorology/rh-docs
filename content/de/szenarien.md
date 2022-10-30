@@ -2,7 +2,7 @@
 layout: layouts/docs.njk
 eleventyNavigation:
   key: Szenarien
-  order: 9
+  order: 10
 ---
 
 # Szenarien

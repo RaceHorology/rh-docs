@@ -2,10 +2,49 @@
 layout: layouts/docs.njk
 eleventyNavigation:
   key: Änderungshistorie
-  order: 11
+  order: 12
 ---
 
 # Änderungshistorie / Changelog
+
+## 0.9.3
+
+**Datum:** 18.09.2022
+
+Achtung: Ab dieser Version gibt es einen Versionssprung. Die Zwischenversionen existieren nicht. 
+
+**Neue Features und Verbesserungen**
+
+- Zeitmessung von Parallelslalom möglich (ALGE Programm 5 - Parallel Netto)
+
+- Übernahme der Renndaten (Streckendaten, Schiedrichter, ...) aus anderen Bewerben
+
+- Unterstützung der Zeitmessanlage Alpenhunde
+
+- Die Spalten in Tabellenansichten sind konfigurierbar
+
+- Anzeige von Disqualifikationsgründen auf rennmeldung.de
+
+- Export (Excel, CSV) enthält jetzt Totalzeit und Platzierung
+
+- Anzeige der aktiven Startnummer am ALGE Zeitmessgerät in der Software
+
+**DSV / FIS**
+
+- Standardwerte für die Punkteberechnung für DSV Schülerrennen
+
+- Punkteberechnung mit Adder korrigiert
+
+- Rundungsfehler bei Punkteberechnung behoben
+
+
+**Sonstige Bugfixes**
+
+- Bei Teilnehmer ändern wurden nicht immer alle Wert übernommen
+
+- kleinere Bugfixes bei der Startnummernzuweisung
+
+Die Detaillierte Liste der Änderungen ist hier: [Link](https://github.com/RaceHorology/RaceHorology/issues?q=closed%3A2022-01-21..2022-09-17+sort%3Aupdated-desc+is%3Aissue+)
 
 ## 0.4.6
 

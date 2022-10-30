@@ -1,7 +1,7 @@
 ---
 layout: layouts/docs.njk
 eleventyNavigation:
-  key: Listen
+  key: Live Listen
   order: 8
 ---
 
@@ -25,7 +25,11 @@ Race Horology zeigt auf der rechten Hälfte der Anwendung die aktuellen Start- o
 
 Die Gruppierung kann direkt daneben ausgewählt werden. Standardmäßig werden die Listen entsprechend der [Rennkonfiguration](../wettbewerb_rennen) gruppiert. 
 
-##	Listen drucken
+## Angezeigte Spalte bearbeiten
+
+Es ist möglich durch einen <rechtsklick> auf die Spaltenüberschriften zu bestimmen, welche Spalten angezeigt werden sollen. Die gewählte Einstellung wird auf dem Computer gespeichert. 
+
+## Listen drucken
 
 Die gerade aktuell sichtbare Liste kann mittels Drucken in ein PDF-Dokument geschrieben werden. Es wird automatisch ein passender Dateiname vorgeschlagen.
 

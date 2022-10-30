@@ -9,7 +9,7 @@ eleventyNavigation:
 
 ![Zeitnahmetab](../../assets/images/de/zeitnahmetab.png)
 
-Die Renndurchführung wird primär über die beiden Tabs Zeitnahme und Disqualifikation durchgeführt.
+Die Renndurchführung wird primär über die beiden Tabs Zeitnahme und Ausscheidungen durchgeführt.
 
 ##	Zeitnahme
 
@@ -25,7 +25,7 @@ Der Zeitnahmebereich zeigt drei Listen an:
 
 ###	Online Zeitnahme
 
-Um die Zeiten direkt aus dem Zeitnahmegerät während des Rennens zu übernehmen muss man Online Gehen. Das Online Gehen erfolgt über den **Play** Button im Zeitnahmebereich in der Statuszeile des Programms. 
+Um die Zeiten direkt aus dem Zeitnahmegerät während des Rennens zu übernehmen muss man Online Gehen. Das Online Gehen erfolgt über den **Verbinden** Button im Zeitnahmebereich in der Statuszeile des Programms. 
 
 ![Zeitnahmetab](../../assets/images/de/statuszeile.png)
 
@@ -33,11 +33,9 @@ Um die Zeiten direkt aus dem Zeitnahmegerät während des Rennens zu übernehmen
 
 **Hinweis:** Das verwendete Zeitnahmegerät und der verwendete COM Port kann im Menü Optionen eingestellt werden.
 
-**Achtung:** Der COM Port wird derzeit erst nach dem Neustart des Programms wirksam.
-
 ###	Zeitnahme Hilfsfunktionen
 
-Es gibt folgende Zeitnahme Hilfsfunktionen. Entsprechende Einstellungen können im Menü Optionen vorgenommen werden.
+Es gibt folgende Zeitnahme Hilfsfunktionen. Entsprechende Zeit-Einstellungen können im Menü Optionen vorgenommen werden.
 
 •	**Automatisch nicht im Ziel**
 

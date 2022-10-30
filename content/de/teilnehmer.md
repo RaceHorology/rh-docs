@@ -17,6 +17,8 @@ Teilnehmer können in der Tabelle **Teilnehmer & Globale Konfiguration** und Sub
 
 Um einen neuen Teilnehmer hinzuzufügen, drücken Sie **Teilnehmer hinzufügen**. Der Button **Teilnehmer löschen** löscht alle markierten Teilnehmer nach einer Sicherheitsabfrage. 
 
+Achtung: Dem Teilnehmer wird automatisch eine passende Klasse zugewiesen sofern keine selbst gewählt wurde. Es ist möglich, dass diese Klasse nicht der gewünschten Klasse entspricht. 
+
 **Achtung:** Eventuell vorhandene Zeitdaten werden ebenso gelöscht.
 
 Es ist auch möglich mehrere Teilnehmer gleichzeitig zu ändern. Dies kann hilfreich sein, um z.B. Vereinsnamen oder Nationen zu ändern sowie mehrere Teilnehmer zu einem Rennen hinzuzufügen. Gehen Sie hierzu wie folgt vor:

@@ -9,8 +9,8 @@ eleventyNavigation:
 
 ![Race Horology Splash Screen](../../assets/images/SplashScreen.png)
 
-Race Horology ist ein Zeitnahmeprogramm (aktuell vorwiegend für Alpine Skiformen) - kompatibel mit "DSV Alpin"
+Race Horology ist ein Zeitnahme- und Auswerteprogramm für Rennsportarten (aktuell vorwiegend für Alpine Skiformen) - kompatibel mit "DSV Alpin"
 
-Das Programm ist aktuell noch in der Entwicklung und nicht komplett fertiggestellt. 
+Race Horology befindet sich noch in der Entwicklungsphase. Daher ist der aktuelle Funktionsumfang noch nicht vollständig und man kann im Vergleich zu DSVAlpin bzw. DSVAlpinX an Grenzen kommen. Um diese Grenzen zu überwinden, ist Race Horology kompatibel mit DSVAlpin bzw. DSVAlpinX. Einem wechelseitigen (aber nicht parallelen) Betrieb, steht somit nichts im Wege.
 
-Nutzt die Navigation, um zu den Hilfethemen zu gelangen.
+Nutze die Navigation links, um zu den verfügbaren Hilfethemen zu gelangen.
