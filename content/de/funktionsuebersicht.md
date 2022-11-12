@@ -9,7 +9,7 @@ eleventyNavigation:
 
 - Übersichtlichere Zeitnahme mit mehreren Durchgängen
 
-Die Zeitnahme ist aktuell mit ALGE TdC 8000/8001 sowie Alpenhunde möglich
+Die Zeitnahme ist aktuell mit ALGE TdC 8000/8001, ALGE Timy (Serial und USB) sowie Alpenhunde möglich.
 
 - Handzeitberechnung (ALG Timmy sowie Tag Heuer Pocket Pro)
 
