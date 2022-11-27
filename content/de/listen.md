@@ -32,14 +32,3 @@ Es ist möglich durch einen <rechtsklick> auf die Spaltenüberschriften zu besti
 ## Listen drucken
 
 Die gerade aktuell sichtbare Liste kann mittels Drucken in ein PDF-Dokument geschrieben werden. Es wird automatisch ein passender Dateiname vorgeschlagen.
-
-###	Eigene Logos platzieren
-
-Es können eigene Logos auf den Ausdrucken platziert werden. Um dies zu tun müssen entsprechende Bild-Dateien im Verzeichnis der Datendatei liegen. Es werden grundsätzlich alle gängigen Bildformate wie JPG, PNG, BMP unterstützt. Folgende Logos und Banner können angepasst werden:
-
-| Dateiname | Funktion |
-| - | - |
-| Banner1.XXX | Dieses Bild wird auf jede Seite am oberen Rand der Seite gedruckt. Das Bild wird auf die Seitenbreite skaliert. |
-| Banner2.XXX | Dieses Bild wird auf jede Seite am unteren Rand der Seite gedruckt. Das Bild wird auf die Seitenbreite skaliert. |
-| Logo1.XXX | Dieses Bild wird im Seitenkopf oben links gedruckt. Typischerweise ist dies das Vereinslogo. |
-| Logo2.XXX | Dieses Bild wird im Seitenkopf unten links gedruckt. Typischerweise ist dies das Verbandslogo. |

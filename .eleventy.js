@@ -1,4 +1,5 @@
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
+const fs = require('fs');
 
 module.exports = function (eleventyConfig) {
 
@@ -14,23 +15,30 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPlugin(eleventyNavigationPlugin);
 
     // set 404 config for GitHub Pages
-    eleventyConfig.setBrowserSyncConfig({  
-      callbacks: {    
-        ready: function(err, browserSync) {
-          const content_404 = fs.readFileSync('404.html');
-      
-          browserSync.addMiddleware("*", (req, res) => {
-            // Provides the 404 content without redirect.        
-            res.write(content_404);        
-            res.end();      
-          });    
-        },  
-      },  
-      ui: false,  
-      ghostMode: false
-    });
+    //const NOT_FOUND_PATH = "docs/404.html"; #only on dev-machine
+    const NOT_FOUND_PATH = "404.html";
+
+    eleventyConfig.setBrowserSyncConfig({
+      callbacks: {
+        ready: function(err, bs) {
   
-    return {
+          bs.addMiddleware("*", (req, res) => {
+            if (!fs.existsSync(NOT_FOUND_PATH)) {
+              throw new Error(`Expected a \`${NOT_FOUND_PATH}\` file but could not find one. Did you create a 404.html template?`);
+            }
+  
+            const content_404 = fs.readFileSync(NOT_FOUND_PATH);
+            // Add 404 http status code in request header.
+            res.writeHead(404, { "Content-Type": "text/html; charset=UTF-8" });
+            // Provides the 404 content without redirect.
+            res.write(content_404);
+            res.end();
+          });
+        }
+      }
+    });
+
+      return {
       dir: {
         input: "content",
         output: "docs"
