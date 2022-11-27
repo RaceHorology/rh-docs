@@ -1,14 +1,24 @@
-const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
-
-// used for 11ty upgrades
-const UpgradeHelper = require("@11ty/eleventy-upgrade-help");
-
-const fs = require('fs');
-
 module.exports = function (eleventyConfig) {
 
   //check any issues that prevent updating to latest version
+  const UpgradeHelper = require("@11ty/eleventy-upgrade-help");
   eleventyConfig.addPlugin(UpgradeHelper);
+
+  //eleventyConfig.addPlugin(markdownItTableX);
+
+  //markdown-it
+  const markdownIt = require('markdown-it');
+  const markdownItAttrs = require('markdown-it-attrs');
+
+  const markdownItOptions = {
+    html: true,
+    breaks: true,
+    linkify: false
+  };
+  const markdownLib = markdownIt(markdownItOptions)
+    .use(markdownItAttrs)
+    ;
+  eleventyConfig.setLibrary('md', markdownLib);
 
   eleventyConfig.setTemplateFormats("html, md, njk");
   eleventyConfig.addPassthroughCopy("assets");
@@ -19,10 +29,12 @@ module.exports = function (eleventyConfig) {
 
   //eleventyConfig.addShortcode("myPrefix", () => process.env.MY_PREFIX);
   
+  const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
 
   // set 404 config for GitHub Pages
   //const NOT_FOUND_PATH = "docs/404.html"; #only on dev-machine
+  const fs = require('fs');
   const NOT_FOUND_PATH = "404.html";
 
   eleventyConfig.setBrowserSyncConfig({
@@ -48,7 +60,10 @@ module.exports = function (eleventyConfig) {
   return {
     dir: {
       input: "content",
-      output: "docs"
+      output: "docs",
+      markdownTemplateEngine: 'njk',
+      htmlTemplateEngine: "njk",
+      dataTemplateEngine: "njk"
     }, 
     pathPrefix: process.env.MY_PREFIX
   }

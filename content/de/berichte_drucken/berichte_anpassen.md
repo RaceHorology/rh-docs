@@ -21,6 +21,8 @@ Es können eigene Banner auf den Ausdrucken platziert werden. Um dies zu tun, m�
 | Banner1.XXX | 547 Pixel       | 60 Pixel      | Dieses Bild wird auf jede Seite am oberen Rand der Seite gedruckt. Das Bild wird auf die Seitenbreite skaliert.  |
 | Banner2.XXX | 547 Pixel       | 60 Pixel      | Dieses Bild wird auf jede Seite am unteren Rand der Seite gedruckt. Das Bild wird auf die Seitenbreite skaliert. |
 
+{.table .table-bordered .table-striped}
+
 XXX entspricht der Dateiendung des Bildes.
 
 ## Eigene Logos platzieren
@@ -31,6 +33,8 @@ Es können eigene Logos auf den Ausdrucken platziert werden. Um dies zu tun müs
 | --------- | --------------- | ------------- | ---------------------------------------------------------------------------------------------- |
 | Logo1.XXX | 56 Pixel        | 56 Pixel      | Dieses Bild wird im Seitenkopf oben links gedruckt. Typischerweise ist dies das Vereinslogo.   |
 | Logo2.XXX | 30 Pixel        | 30 Pixel      | Dieses Bild wird im Seitenkopf unten links gedruckt. Typischerweise ist dies das Verbandslogo. |
+
+{.table .table-bordered .table-striped}
 
 XXX entspricht der Dateiendung des Bildes.
 
@@ -47,3 +51,5 @@ Für die Banner stehen Vorlagen in unterschiedlichen Höhen bereit:
 | Banner_Normal | 60 Pixel  |
 | Banner_Klein  | 40 Pixel  |
 | Banner_Mini   | 20 Pixel  |
+
+{.table .table-bordered .table-striped}
