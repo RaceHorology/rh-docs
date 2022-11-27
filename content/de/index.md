@@ -1,8 +1,6 @@
 ---
 layout: layouts/docs.njk
-eleventyNavigation:
-  key: Start
-  order: 1
+title: Start
 ---
 
 # Dokumentation 
