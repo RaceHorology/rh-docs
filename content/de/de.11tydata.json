@@ -1,3 +1,4 @@
 {
+    "permalink": "{{ page.filePathStem }}.html",
     "language": "de"
 }
