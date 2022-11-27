@@ -7,3 +7,17 @@ This project contains the source of latest documentation version
 npm install
 
 CHOKIDAR_USEPOLLING=true npx eleventy --serve
+
+## update nodejs
+
+npm cache clean -f
+npm install -g n # if not yet done
+n stable
+
+## update npm 
+
+npm update npm
+
+## update 11ty
+
+npm install @11ty/eleventynode
