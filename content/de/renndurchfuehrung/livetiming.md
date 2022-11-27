@@ -19,10 +19,10 @@ Race Horology unterstützt verschiedene Live Timing Plattformen um das Renngesch
 Um das Livetiming von https://rennmeldung.de zu nutzen gehen Sie wie folgt vor:
 
 -	Geben Sie folgende Daten an: Bewerbsnummer, Login und Passworts.
--	Drücken Sie „Login“{.btn .btn-secondary}.
+-	Drücken Sie **Login**{.btn .btn-secondary}.
 -	War der Login erfolgreich füllt sich die nachfolgende Combobox mit den verfügbaren Ver-anstaltungen. 
 -	Wählen Sie die korrekte Veranstaltung aus.
--	Drücken Sie „Start“{.btn .btn-secondary}.
+-	Drücken Sie **Start**{.btn .btn-secondary}.
 
 Jede Änderung, die ab sofort passiert, wird unmittelbar an rennmeldung.de übertragen und ist somit für die renninteressierten Zuschauer sofort sichtbar.
 

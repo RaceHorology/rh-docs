@@ -5,7 +5,9 @@ eleventyNavigation:
   order: 7
 ---
 
-# Externe Anzeige (Sprecheransicht) via Tablet oder Monitor
+# Externe Anzeige
+
+Sprecheransicht via Tablet oder Monitor
 
 ##	Aufrufen der externen Anzeige
 
@@ -25,6 +27,8 @@ Klickt man auf dem Computer auf den QR Code öffnet sich der Webbrowser mit der 
 
 ![Zeitnahmetab](../../assets/images/de/qrcode.png)
 
-##	Empfohlene Netzwerk Setups
+###	Empfohlene Netzwerk Setups
 
-TODO
+Für die externe Anzeige ist eine stabile Netzwerkverbindung erforderlich. Da jede Gegebenheit vor Ort anders ist kann keine direkte Handlungsempfehlung gegeben werden. 
+
+Oft reicht ein normaler Wireless-Router oder Switch mit jeweiligem Zubehör bereits aus, um die nötige Funktion bereitzustellen.
