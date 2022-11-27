@@ -39,4 +39,4 @@ Um das FIS-Livetiming zu nutzen, benötigen Sie die Informationen vom FIS-Bewerb
 - Geben Sie folgende Daten an: Codex-nummer (Racecode), Category (ist immer "FIS"), das persönliche Passwort und den korrekten Port.
 - Drücken Sie **Speichern**{.btn .btn-secondary} und danach **Start**{.btn .btn-secondary}
 
-**Hinweis:** Sollten auf der FIS Livetiming-Seite fehlerhafte Informationen angezeigt werden, kann die übertragung gestoppt und wieder gestartet werden. Alle Daten werden dann erneut übertragen. 
+Sollten auf der FIS Livetiming-Seite fehlerhafte Informationen angezeigt werden, kann die übertragung gestoppt und wieder gestartet werden. Alle Daten werden dann erneut übertragen.  {.alert .alert-success}

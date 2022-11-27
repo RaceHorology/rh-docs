@@ -21,7 +21,7 @@ Die Globale Konfiguration gilt für alle Rennen, die in einer Bewerbsdatei angel
 
 Soll in einem Rennen die Globale Konfiguration wieder genutzt werden, so ist dies über den Button **Globale Konfiguration nutzen** möglich. 
 
-**Achtung:** In diesem  Fall werden die Einstellungen der Lokalen Konfiguration überschrieben!
+**Achtung:**{.badge .badge-danger .text-uppercase} In diesem Fall werden die Einstellungen der Lokalen Konfiguration überschrieben! {.alert .alert-warning}
 
 ## Template
 
@@ -63,19 +63,19 @@ Es findet keine Gruppierung der Teilnehmer statt.
 
 Die Teilnehmer werden nach Klasse gruppiert (z.B.: U10 weiblich).
 
-**Hinweis:** Klassen müssen hierfür über "Klassen und Gruppen" erstellt sein.
+Klassen müssen hierfür über "Klassen und Gruppen" erstellt sein. {.alert .alert-success}
 
 ###### Gruppe
 
 Die Teilnehmer werden nach Gruppe gruppiert (z.B.: MannschaftA).
 
-**Hinweis:** Gruppen müssen hierfür über "Klassen und Gruppen" erstellt sein.
+Gruppen müssen hierfür über "Klassen und Gruppen" erstellt sein. {.alert .alert-success}
 
 ###### Kategorie
 
 Die Teilnehmer werden nach Kategorie gruppiert (z.B.: Damen).
 
-**Hinweis:** Kategorien müssen hierfür über "Klassen und Gruppen" erstellt sein. 
+Kategorien müssen hierfür über "Klassen und Gruppen" erstellt sein.  {.alert .alert-success}
 
 ### Startsortierung
 
@@ -119,13 +119,13 @@ Folgende Daten können eingegeben werden:
 
 - Maximalwert
 
-**Achtung:** Sollte der Maximalwert auf 0 sein, so wird auch in der Punkteberechnung überall 0 verwendet. Es sollte deshalb in der Regel immer ein Maximalwert eingegeben werden (z. B. 250 bei DSV Rennen)
+**Achtung:**{.badge .badge-danger .text-uppercase} Sollte der Maximalwert auf 0 sein, so wird auch in der Punkteberechnung überall 0 verwendet. Es sollte deshalb in der Regel immer ein Maximalwert eingegeben werden (z. B. 250 bei DSV Rennen) {.alert .alert-warning}
 
 ## Rennkonfiguration übernehmen
 
 Die Rennkonfiguration wird erst übernommen, wenn auf **Speichern**{.btn .btn-secondary} gedrückt wird.
 
-**Anmerkung:** Die DSVAlpin-Rennkonfiguration wird derzeit nicht aus dem DSVAlpin Programm übernommen. Kontrollieren sie die Parameter, wenn die Bewerbsdatei aus DSVAlpin übernommen wird.
+Die DSVAlpin-Rennkonfiguration wird derzeit nicht aus dem DSVAlpin Programm übernommen. Kontrollieren sie die Parameter, wenn die Bewerbsdatei aus DSVAlpin übernommen wird. {.alert .alert-success}
 
 ## Zurücksetzen
 

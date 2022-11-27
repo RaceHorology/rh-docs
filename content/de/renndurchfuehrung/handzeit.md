@@ -14,9 +14,9 @@ Race Horology unterstützt die Berechnung einer Ersatzzeit nach der IWO, Regel 6
 
 In die Handzeitberechnung gelangt man über das Menü **Werkzeuge** und die Funktion **Handzeit berechnen**.
 
-**Hinweis:** Für die Handzeitberechnung ist ein anderer COM-Port (Serielles Interface) als die normale Zeitnahme möglich. 
+Für die Handzeitberechnung ist ein anderer COM-Port (Serielles Interface) als die normale Zeitnahme möglich. {.alert .alert-success}
 
-**Achtung:** Sollte der gleiche Port genutzt werden, so ist bei aktiver Zeitnahme unten im Programm durch **Trennen**{.btn .btn-secondary} der Port erst zu trennen. Ansonsten kommt es zu einer Fehlermeldung und die Handzeiten können nicht importiert werden. In diesem Fall sollte ein Import erst nach dem Rennen erfolgen. 
+**Achtung:**{.badge .badge-danger .text-uppercase} Sollte der gleiche Port genutzt werden, so ist bei aktiver Zeitnahme unten im Programm durch **Trennen**{.btn .btn-secondary} der Port erst zu trennen. Ansonsten kommt es zu einer Fehlermeldung und die Handzeiten können nicht importiert werden. In diesem Fall sollte ein Import erst nach dem Rennen erfolgen. {.alert .alert-warning}
 
 ![Zeitnahmetab](../../assets/images/de/handzeit.png)
  
@@ -76,4 +76,4 @@ Es ist möglich bereits geladene Zeiten zu löschen.
 
 - Klicken Sie auf **Handzeiten löschen**{.btn .btn-secondary}
 
-**Achtung:** Es werden *alle* Zeiten gelöscht
+**Achtung:**{.badge .badge-danger .text-uppercase} Es werden *alle* Zeiten gelöscht {.alert .alert-warning}

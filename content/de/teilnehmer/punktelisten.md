@@ -16,7 +16,7 @@ Für DSV-Punkterennen (Kinder, Schüler, Jugend und Aktive) sowohl für FIS-Renn
 
 [Die DSV-Punktelisten für Jugend/Senioren können hier heruntergeladen werden](https://www.deutscherskiverband.de/leistungssport_ski-alpin_jugend_senioren_de,1357777.html)
 
-**Achtung:** Bei jedem Laden/Aktualisieren der Listen werden alte Einträge überschrieben!
+**Achtung:**{.badge .badge-danger .text-uppercase} Bei jedem Laden/Aktualisieren der Listen werden alte Einträge überschrieben! {.alert .alert-warning}
 
 ###	Punkte via Datei laden/aktualisieren
 

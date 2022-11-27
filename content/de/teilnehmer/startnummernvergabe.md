@@ -12,9 +12,9 @@ eleventyNavigation:
 
 Die Startnummern werden pro Rennen den Teilnehmern zugewiesen. Dies erfolgt über die entsprechende **Renntabelle** in der Subtabelle **Startnummern**. Die Startnummern können manuell oder automatisch per Zufall (Verlosung) vergeben werden.
 
-**Hinweis:** Die Startnummern werden im Programm erst dann übernommen, wenn **Speichern**{.btn .btn-secondary} gedrückt wurde. Mit **Zurücksetzen**{.btn .btn-secondary} wird die Startnummernvergabe wieder zum letzten gespeicherten Stand zurückgesetzt.
+Die Startnummern werden im Programm erst dann übernommen, wenn **Speichern**{.btn .btn-secondary} gedrückt wurde. Mit **Zurücksetzen**{.btn .btn-secondary} wird die Startnummernvergabe wieder zum letzten gespeicherten Stand zurückgesetzt. {.alert .alert-success}
 
-**Hinweis:** Sollte es vorkommen, dass ein Startnummertrikot nicht genutzt werden kann, ist es möglich in den Optionen im Feld **Nicht zu vergebene Startnummern** die Startnummern durch Komma getrennt einzutragen, deren Startnummern nicht vergeben werden sollen.
+Sollte es vorkommen, dass ein Startnummertrikot nicht genutzt werden kann, ist es möglich in den Optionen im Feld **Nicht zu vergebene Startnummern** die Startnummern durch Komma getrennt einzutragen, deren Startnummern nicht vergeben werden sollen. {.alert .alert-success}
 
 ## Vorläufige Startliste
 
@@ -34,7 +34,7 @@ Teilnehmer können manuell einer Startnummer zugewiesen werden. Gehen Sie hierzu
 
 -	„**Startnummer**“ angeben
 
-**Hinweis:** Wenn nichts weiter eingegeben wird, zeigt dieses Feld automatisch auf die höchste vergebene Startnummer plus 1. 
+Wenn nichts weiter eingegeben wird, zeigt dieses Feld automatisch auf die höchste vergebene Startnummer plus 1. {.alert .alert-success}
 
 -	Einen oder mehrere Teilnehmer auswählen.
 
@@ -43,7 +43,7 @@ Hinweis: Die Auswählreihenfolge bleibt erhalten und wird beim Zuteilen der Star
 
 Die ausgewählten Teilnehmer werden entsprechend der Auswahlreihenfolge aufeinanderfolgende Startnummern beginnend mit der angegebenen **Startnummer** zugewiesen.
 
-**Achtung:** Wird eine bereits zugewiesene Startnummer angegeben, so wird diese Belegung überschrieben. Der Teilnehmer, der vorher dies Startnummer hatte, ist in dem Fall in der noch zuzuweisenden Teilnehmerliste zu finden.
+**Achtung:**{.badge .badge-danger .text-uppercase} Wird eine bereits zugewiesene Startnummer angegeben, so wird diese Belegung überschrieben. Der Teilnehmer, der vorher dies Startnummer hatte, ist in dem Fall in der noch zuzuweisenden Teilnehmerliste zu finden. {.alert .alert-warning}
 
 ##	Startnummern zufällig vergeben (Verlosung)
 
@@ -79,4 +79,4 @@ oder
 
 Es werden alle restlichen Teilnehmer, Gruppe für Gruppe zugewiesen.
 
-**Hinweis:** Standardmäßig werden die Parameter aus der Rennkonfiguration für die Startliste des 1. Durchgangs übernommen und sollten daher keiner weiteren Einstellung benötigen.
+Standardmäßig werden die Parameter aus der Rennkonfiguration für die Startliste des 1. Durchgangs übernommen und sollten daher keiner weiteren Einstellung benötigen. {.alert .alert-success}

@@ -18,9 +18,9 @@ Um eine neue Gruppe oder Klasse anzulegen, muss man in der entsprechenden leeren
 
 Mittels Drag and Drop können die Einträge verschoben werden, um die Reihenfolge innerhalb der Gruppen und Klassen festzulegen.
 
-**Hinweis:** Beim Jahrgang kann auch das Alter angegeben werden. Das Alter wird in die entsprechende Jahreszahl umgewandelt. Annahme hierfür ist, dass die Saison immer am 1. Oktober eines Jahres anfängt.
+Beim Jahrgang kann auch das Alter angegeben werden. Das Alter wird in die entsprechende Jahreszahl umgewandelt. Annahme hierfür ist, dass die Saison immer am 1. Oktober eines Jahres anfängt. {.alert .alert-success}
 
-**Wichtig:** Die Änderungen werden erst nach dem Drücken von **Speichern**{.btn .btn-secondary} übernommen.
+Die Änderungen werden erst nach dem Drücken von **Speichern**{.btn .btn-secondary} übernommen. {.alert .alert-success}
 
 ##	Erstellen und Editieren von Kategorien
 
@@ -42,8 +42,8 @@ Die Langform der Kategorie.
 
 Es gibt Fälle, in denen die Importdaten nicht immer die gewünschten Kürzel enthalten, z.B. könnten Importdaten anstelle von D für Damen ein L für Lady enthalten. Mit dem **Alternativen Kürzel** ist es in diesem Beispiel möglich, die Lady-Einträge dennoch den Damen zuzuordnen.
 
-**Hinweis:** Um mehrere Alternative Kürzel anzugeben können diese einfach nacheinander stehen. Beispiel: „DL“
-Beim Export hat das Alternative Kürzel keine Auswirkung.
+Um mehrere Alternative Kürzel anzugeben können diese einfach nacheinander stehen. Beispiel: „DL“
+Beim Export hat das Alternative Kürzel keine Auswirkung. {.alert .alert-success}
 
 ##	Klassen und Gruppen importieren
 
@@ -51,4 +51,4 @@ Klassen und Gruppen können von anderen Bewerbsdateien importiert werden. Hierbe
 
 Drücken Sie dazu entweder **Importieren und Ersetzen**{.btn .btn-secondary} oder **Importieren und Hinzufügen**{.btn .btn-secondary} und wählen Sie die Bewerbsdatei aus, deren Klassen und Gruppen importiert bzw. hinzugefügt werden sollen.
 
-**Wichtig:** Die Änderungen werden erst nach dem Drücken von **Speichern**{.btn .btn-secondary} übernommen.
+Die Änderungen werden erst nach dem Drücken von **Speichern**{.btn .btn-secondary} übernommen. {.alert .alert-success}

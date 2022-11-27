@@ -31,4 +31,4 @@ Es erscheint ein neuer Tab mit dem gerade erstellten Rennen.
 
 Um ein Rennen zu löschen drücken sie auf das X im zu löschenden Renn-Tab. Nach einer Sicherheitsabfrage kann das Rennen gelöscht werden.
 
-**Achtung:** Damit werden auch alle Zeiten des Rennens unwideruflich gelöscht.
+**Achtung:**{.badge .badge-danger .text-uppercase} Damit werden auch alle Zeiten des Rennens unwideruflich gelöscht. {.alert .alert-warning}

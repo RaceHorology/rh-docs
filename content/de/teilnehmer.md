@@ -19,7 +19,7 @@ Um einen neuen Teilnehmer hinzuzufügen, drücken Sie **Teilnehmer hinzufügen**
 
 Achtung: Dem Teilnehmer wird automatisch eine passende Klasse zugewiesen sofern keine selbst gewählt wurde. Es ist möglich, dass diese Klasse nicht der gewünschten Klasse entspricht. 
 
-**Achtung:** Eventuell vorhandene Zeitdaten werden ebenso gelöscht.
+**Achtung:**{.badge .badge-danger .text-uppercase} Eventuell vorhandene Zeitdaten werden ebenso gelöscht. {.alert .alert-warning}
 
 Es ist auch möglich mehrere Teilnehmer gleichzeitig zu ändern. Dies kann hilfreich sein, um z.B. Vereinsnamen oder Nationen zu ändern sowie mehrere Teilnehmer zu einem Rennen hinzuzufügen. Gehen Sie hierzu wie folgt vor:
 
@@ -34,7 +34,7 @@ Die Teilnehmer können einem oder mehreren Rennen zugewiesen sein. Man kann die 
 + 	Häkchen in der Tabelle Teilnehmerdaten setzen oder entfernen
 + 	Häkchen in der Detailansicht setzen oder entfernen
 
-**Hinweis:** Durch das Auswählen von mehreren Teilnehmern, kann man mehrere Teilnehmer auf einmal zu einem Rennen hinzufügen oder entfernen. 
+Durch das Auswählen von mehreren Teilnehmern, kann man mehrere Teilnehmer auf einmal zu einem Rennen hinzufügen oder entfernen. {.alert .alert-success}
 
 +	Bei **Teilnehmer importieren**{.btn .btn-secondary} die entsprechenden Rennen angeben.
 
@@ -54,7 +54,7 @@ Im linken Bereich befindet sich die Datenvorschau. Sie zeigt die zu importierend
 
 Im rechten Bereich befindet sich oben die **Datenfeldzuordnung**. Pro Race Horology Datenfeld kann ein Datenimportfeld ausgewählt werden. Stellen Sie hier die korrekte Feldzuordnung sicher.
 
-**Hinweis:** Die Datenfeldzuordnung versucht eine sinnvolle Datenzuordnung auf Basis der Feldbezeichnungen zu erraten.
+Die Datenfeldzuordnung versucht eine sinnvolle Datenzuordnung auf Basis der Feldbezeichnungen zu erraten. {.alert .alert-success}
 
 Im unteren rechten Bereich wird angegeben, zu welchem Rennen die Teilnehmer zugeordnet werden sollen. Aktivieren Sie die Rennen, zu denen die Teilnehmer importiert werden sollen – Standardmäßig sind dies alle.
 

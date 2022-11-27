@@ -23,7 +23,7 @@ Es können eigene Banner auf den Ausdrucken platziert werden. Um dies zu tun, m�
 
 {.table .table-bordered .table-striped}
 
-XXX entspricht der Dateiendung des Bildes.
+XXX entspricht der Dateiendung des Bildes. {.alert .alert-success}
 
 ## Eigene Logos platzieren
 
@@ -36,7 +36,7 @@ Es können eigene Logos auf den Ausdrucken platziert werden. Um dies zu tun müs
 
 {.table .table-bordered .table-striped}
 
-XXX entspricht der Dateiendung des Bildes.
+XXX entspricht der Dateiendung des Bildes. {.alert .alert-success}
 
 ## Beispielgrafiken
 

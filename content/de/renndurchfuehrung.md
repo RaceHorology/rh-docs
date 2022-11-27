@@ -29,9 +29,9 @@ Um die Zeiten direkt aus dem Zeitnahmegerät während des Rennens zu übernehmen
 
 ![Zeitnahmetab](../../assets/images/de/statuszeile.png)
 
-**Hinweis:** Wenn man online ist, ist es nicht möglich den aktuellen Durchgang zu wechseln. Um den Durchgang zu wechseln, gehen Sie Offline, wechseln Sie den Durchgang und gehen danach wieder Online.
+Wenn man online ist, ist es nicht möglich den aktuellen Durchgang zu wechseln. Um den Durchgang zu wechseln, gehen Sie Offline, wechseln Sie den Durchgang und gehen danach wieder Online. {.alert .alert-success}
 
-**Hinweis:** Das verwendete Zeitnahmegerät und der verwendete COM Port kann im Menü Optionen eingestellt werden.
+Das verwendete Zeitnahmegerät und der verwendete COM Port kann im Menü Optionen eingestellt werden. {.alert .alert-success}
 
 ###	Zeitnahme Hilfsfunktionen
 
@@ -45,7 +45,7 @@ Wenn ein Läufer nach einer bestimmten Zeit nicht im Ziel ist, wird dieser autom
 
 Wenn eine bestimmte Anzahl Starter nach einem nicht gestarteten Läufer gestartet sind, wird der nicht gestartete Läufer automatisch als "nicht am Start" (NaS) gewertet. 
 
-**Hinweis:** Standardmäßig ist diese Option auf 9999 Läufer gesetzt, um bei Nachmeldungen "nicht am Start" für den Läufer nicht zu setzen. Dieser Wert kann im Menü "Optionen" geändert werden.
+Standardmäßig ist diese Option auf 9999 Läufer gesetzt, um bei Nachmeldungen "nicht am Start" für den Läufer nicht zu setzen. Dieser Wert kann im Menü "Optionen" geändert werden. {.alert .alert-success}
 
 •	**„Start Frei! – Signal“**
 Das „Start Frei! – Signal“ erscheint nach einer einstellbaren Zeit, nachdem ein Läufer gestartet ist. Hierbei ertönt auch ein Signalton. 
@@ -71,7 +71,7 @@ Neben der Online Zeiterfassung kann man die Zeiten auch manuell erfassen. Dies k
 
 Die Zeit kann entweder als Differenzzeit (also Start- und Zieltageszeit) oder Absolutzeit (also der eigentlichen Laufzeit) angegeben werden. Das Wechseln des Eingabemodus erfolgt mit der Combobox.
 
-**Wichtig:** Damit die eingegebenen Zeiten übernommen werden, muss mit **Speichern**{.btn .btn-secondary} bestätigt, oder die Taste *\<F2>* gedrückt werden.
+Damit die eingegebenen Zeiten übernommen werden, muss mit **Speichern**{.btn .btn-secondary} bestätigt, oder die Taste *\<F2>* gedrückt werden.{.alert .alert-success}
 
 ##	Disqualifikation & Ausscheidungen
 
@@ -116,8 +116,8 @@ Springen Sie mit \<TAB> zum Anmerkungsfeld und geben sie eine Anmerkung ein (z.B
 
 Speichern sie die Ausscheidung mit \<F2> oder mit **Speichern**{.btn .btn-secondary}.
 
-**Achtung:** Stellen Sie sicher, dass Sie den richtigen Durchgang ausgewählt haben. Per Default ist immer der Durchgang der aktuellen Zeitnahme eingestellt.
+**Achtung:**{.badge .badge-danger .text-uppercase} Stellen Sie sicher, dass Sie den richtigen Durchgang ausgewählt haben. Per Default ist immer der Durchgang der aktuellen Zeitnahme eingestellt. {.alert .alert-warning}
 
-**Hinweis:** Man kann direkt während der Zeitnahme auch gleich Ausscheidungen eingeben. Der Sprecher sieht dies dann sofort.
+Man kann direkt während der Zeitnahme auch gleich Ausscheidungen eingeben. Der Sprecher sieht dies dann sofort. {.alert .alert-success}
 
-**Hinweis:** Man kann auch für mehrere Teilnehmer gleichzeitig eine Ausscheidung vermerken. Benutzen Sie dazu die Mehrfachauswahl in der Liste: Wählen Sie die entsprechenden Teilnehmer bei gleichzeitigem Drücken der \<SHIFT> bzw. \<STRG> Taste aus.
+Man kann auch für mehrere Teilnehmer gleichzeitig eine Ausscheidung vermerken. Benutzen Sie dazu die Mehrfachauswahl in der Liste: Wählen Sie die entsprechenden Teilnehmer bei gleichzeitigem Drücken der \<SHIFT> bzw. \<STRG> Taste aus. {.alert .alert-success}
