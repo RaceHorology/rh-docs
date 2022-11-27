@@ -27,7 +27,7 @@ Soll in einem Rennen die Globale Konfiguration wieder genutzt werden, so ist die
 
 Um nicht jedes Mal eine komplette Rennkonfiguration eingeben zu müssen, kann die Rennkonfiguration aus einem Template erstellt werden. Beispieltemplates sind DSV Schüler, Skiverbandsrennen, Vereinsrennen.
 
-Das Template und etwaige danach durchgeführten Änderungen werden erst übernommen, nachdem der Button **Speichern** gedrückt wird. 
+Das Template und etwaige danach durchgeführten Änderungen werden erst übernommen, nachdem der Button **Speichern**{.btn .btn-secondary} gedrückt wird. 
 
 ## Sektion "Allgemein"
 
@@ -123,10 +123,10 @@ Folgende Daten können eingegeben werden:
 
 ## Rennkonfiguration übernehmen
 
-Die Rennkonfiguration wird erst übernommen, wenn der Button **Speichern** gedrückt wird.
+Die Rennkonfiguration wird erst übernommen, wenn auf **Speichern**{.btn .btn-secondary} gedrückt wird.
 
 **Anmerkung:** Die DSVAlpin-Rennkonfiguration wird derzeit nicht aus dem DSVAlpin Programm übernommen. Kontrollieren sie die Parameter, wenn die Bewerbsdatei aus DSVAlpin übernommen wird.
 
 ## Zurücksetzen
 
-Über den Button **Zurücksetzen** kann man die ungesicherten Änderungen wieder rückgängig machen. Es werden dann die ursprünglichen Werte wieder angezeigt. 
+Über **Zurücksetzen**{.btn .btn-secondary} kann man die ungesicherten Änderungen wieder rückgängig machen. Es werden dann die ursprünglichen Werte wieder angezeigt. 

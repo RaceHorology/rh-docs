@@ -23,7 +23,7 @@ Ein Rennen wird über den Tab "Neue Disziplin" angelegt.
 
 •	Wählen sie den Renntyp (z.B.: Riesenslalom, Slalom).
 
-•	Drücken sie "Erstellen".
+•	Drücken sie **Erstellen**{.btn .btn-secondary}
 
 Es erscheint ein neuer Tab mit dem gerade erstellten Rennen.
 

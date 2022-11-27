@@ -20,7 +20,7 @@ Mittels Drag and Drop können die Einträge verschoben werden, um die Reihenfolg
 
 **Hinweis:** Beim Jahrgang kann auch das Alter angegeben werden. Das Alter wird in die entsprechende Jahreszahl umgewandelt. Annahme hierfür ist, dass die Saison immer am 1. Oktober eines Jahres anfängt.
 
-**Wichtig:** Die Änderungen werden erst nach dem Drücken von **Speichern** übernommen.
+**Wichtig:** Die Änderungen werden erst nach dem Drücken von **Speichern**{.btn .btn-secondary} übernommen.
 
 ##	Erstellen und Editieren von Kategorien
 
@@ -49,6 +49,6 @@ Beim Export hat das Alternative Kürzel keine Auswirkung.
 
 Klassen und Gruppen können von anderen Bewerbsdateien importiert werden. Hierbei können entweder alle Klassen und Gruppen importiert und die bestehenden Klassen und Gruppen ersetzt werden, oder die neu importierten Klassen und Gruppen werden zu bereits existierenden Klassen und Gruppen hinzugefügt.
 
-Drücken Sie dazu entweder **Importieren und Ersetzen** oder **Importieren und Hinzufügen** und wählen Sie die Bewerbsdatei aus, deren Klassen und Gruppen importiert bzw. hinzugefügt werden sollen.
+Drücken Sie dazu entweder **Importieren und Ersetzen**{.btn .btn-secondary} oder **Importieren und Hinzufügen**{.btn .btn-secondary} und wählen Sie die Bewerbsdatei aus, deren Klassen und Gruppen importiert bzw. hinzugefügt werden sollen.
 
-**Wichtig:** Die Änderungen werden erst nach dem Drücken von Speichern übernommen.
+**Wichtig:** Die Änderungen werden erst nach dem Drücken von **Speichern**{.btn .btn-secondary} übernommen.

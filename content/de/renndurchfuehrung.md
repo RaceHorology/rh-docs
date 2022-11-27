@@ -25,7 +25,7 @@ Der Zeitnahmebereich zeigt drei Listen an:
 
 ###	Online Zeitnahme
 
-Um die Zeiten direkt aus dem Zeitnahmegerät während des Rennens zu übernehmen muss man Online Gehen. Das Online Gehen erfolgt über den **Verbinden** Button im Zeitnahmebereich in der Statuszeile des Programms. 
+Um die Zeiten direkt aus dem Zeitnahmegerät während des Rennens zu übernehmen muss man Online Gehen. Das Online Gehen erfolgt über  **Verbinden**{.btn .btn-secondary} im Zeitnahmebereich in der Statuszeile des Programms. 
 
 ![Zeitnahmetab](../../assets/images/de/statuszeile.png)
 
@@ -43,7 +43,9 @@ Wenn ein Läufer nach einer bestimmten Zeit nicht im Ziel ist, wird dieser autom
 
 •	**Automatisch nicht im Start**
 
-Wenn eine bestimmte Anzahl Starter nach einem nicht gestarteten Läufer gestartet sind, wird der nicht gestartete Läufer automatisch als „nicht am Start“ (NaS) gewertet.
+Wenn eine bestimmte Anzahl Starter nach einem nicht gestarteten Läufer gestartet sind, wird der nicht gestartete Läufer automatisch als "nicht am Start" (NaS) gewertet. 
+
+**Hinweis:** Standardmäßig ist diese Option auf 9999 Läufer gesetzt, um bei Nachmeldungen "nicht am Start" für den Läufer nicht zu setzen. Dieser Wert kann im Menü "Optionen" geändert werden.
 
 •	**„Start Frei! – Signal“**
 Das „Start Frei! – Signal“ erscheint nach einer einstellbaren Zeit, nachdem ein Läufer gestartet ist. Hierbei ertönt auch ein Signalton. 
@@ -57,7 +59,9 @@ Es existieren folgende Tastenkürzel auf dem Zeitnahme Tab, um mit dem Programm 
 | \<STRG> - <1> | Aktuelle Computerzeit als Startzeit verwenden |
 | \<STRG> - <2> | Aktuelle Computerzeit als Zielzeit verwenden |
 | \<STRG> - <9> | Startzeit löschen |
-| \<STRG> - <0> | Zielzeit lösche |
+| \<STRG> - <0> | Zielzeit löschen |
+
+{.table .table-bordered .table-striped}
 
 ### Manuelle Zeiterfassung
 
@@ -67,7 +71,7 @@ Neben der Online Zeiterfassung kann man die Zeiten auch manuell erfassen. Dies k
 
 Die Zeit kann entweder als Differenzzeit (also Start- und Zieltageszeit) oder Absolutzeit (also der eigentlichen Laufzeit) angegeben werden. Das Wechseln des Eingabemodus erfolgt mit der Combobox.
 
-**Wichtig:** Damit die eingegebenen Zeiten übernommen werden, muss der Button *Speichern* oder die Taste *\<F2>* gedrückt werden.
+**Wichtig:** Damit die eingegebenen Zeiten übernommen werden, muss mit **Speichern**{.btn .btn-secondary} bestätigt, oder die Taste *\<F2>* gedrückt werden.
 
 ##	Disqualifikation & Ausscheidungen
 
@@ -110,10 +114,10 @@ Springen Sie mit \<TAB> zum Anmerkungsfeld und geben sie eine Anmerkung ein (z.B
 
 •	**Ausscheidung speichern**
 
-Speichern sie die Ausscheidung mit \<F2> oder durch klick auf „Speichern“.
+Speichern sie die Ausscheidung mit \<F2> oder mit **Speichern**{.btn .btn-secondary}.
 
 **Achtung:** Stellen Sie sicher, dass Sie den richtigen Durchgang ausgewählt haben. Per Default ist immer der Durchgang der aktuellen Zeitnahme eingestellt.
 
 **Hinweis:** Man kann direkt während der Zeitnahme auch gleich Ausscheidungen eingeben. Der Sprecher sieht dies dann sofort.
 
-**Hinweis:** Man kann auch für mehrere Teilnehmer gleichzeitig eine Ausscheidung vermerken. Be-nutzen Sie dazu die Mehrfachauswahl in der Liste: Wählen Sie die entsprechenden Teilnehmer bei gleichzeitigem Drücken der \<SHIFT> bzw. \<STRG> Taste aus.
+**Hinweis:** Man kann auch für mehrere Teilnehmer gleichzeitig eine Ausscheidung vermerken. Benutzen Sie dazu die Mehrfachauswahl in der Liste: Wählen Sie die entsprechenden Teilnehmer bei gleichzeitigem Drücken der \<SHIFT> bzw. \<STRG> Taste aus.

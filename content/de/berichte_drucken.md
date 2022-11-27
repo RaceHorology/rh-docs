@@ -25,12 +25,12 @@ Der Bericht kann aktualisiert werden, wenn sich Änderungen ergeben haben.
 
 ## Berichte exportieren
 
-Durch den Klick auf **Speichern (PDF)** lässt sich der Bericht als PDF-Datei exportieren. 
+Durch den Klick auf **Speichern (PDF)**{.btn .btn-secondary} lässt sich der Bericht als PDF-Datei exportieren. 
 
 Es öffnet sich ein Fenster zur Wahl des Speicherorts. 
 
 ## Berichte drucken
 
-Zusätzlich ist es auch möglich Berichte direkt auf den Drucker auszugeben. Dies ist durch klick auf **Drucken** möglich.
+Zusätzlich ist es auch möglich Berichte direkt auf den Drucker auszugeben. Dies ist über **Drucken**{.btn .btn-secondary} möglich.
 
-Es öffnet sich das übliche Druckfenster. 
+Es öffnet sich das Druckfenster Ihres Betriebssystems. 

@@ -20,10 +20,10 @@ Für DSV-Punkterennen (Kinder, Schüler, Jugend und Aktive) sowohl für FIS-Renn
 
 ###	Punkte via Datei laden/aktualisieren
 
-Klicke auf den Button **DSV Daten importieren** bzw. **FIS Daten importieren**. Danach öffnet sich entweder direkt das Dateiauswahlfenster oder man muss noch weiter **Datei** auswählen. 
+Klicke auf **DSV Daten importieren**{.btn .btn-secondary} bzw. **FIS Daten importieren**{.btn .btn-secondary}. Danach öffnet sich entweder direkt das Dateiauswahlfenster oder man muss noch weiter **Datei** auswählen. 
 
-Im Dateiauswahlfenster ist die vorher heruntergeladene gewünschte Liste (xsls-Format bei FIS bzw. txt-Format bei DSV) zu finden und auszuwählen. Nach einem Klick auf Öffnen wird die Liste importiert. 
+Im Dateiauswahlfenster ist die vorher heruntergeladene gewünschte Liste (xsls-Format bei FIS bzw. txt-Format bei DSV) zu finden und auszuwählen. Nach einem Klick auf **Öffnen**{.btn .btn-secondary} wird die Liste importiert. 
 
 ###	DSV Punkte online laden/aktualisieren
 
-Dies geschieht ähnlich wie beim manuellen Import, jedoch kann man automatisiert die jeweils letzte Online verfügbare Version importieren. Dies funktioniert selbstverständlich nur wenn eine Internetverbindung verfügbar ist und die DSVWebseite den Download der Datei bereitstellt. 
+Dies geschieht ähnlich wie beim manuellen Import, jedoch kann man automatisiert die jeweils letzte Online verfügbare Version importieren. Dies funktioniert selbstverständlich nur wenn eine Internetverbindung verfügbar ist, und die DSV Webseite den Download der Datei bereitstellt. 

@@ -10,11 +10,11 @@ eleventyNavigation:
 
 ![Daten-Import](../../assets/images/de/startnummernvergabe.png)
 
-Die Startnummern werden pro Rennen den Teilnehmern zugewiesen. Dies erfolgt über die entsprechende **Renntabelle** in der Subtabelle **Startnummern**. Die Startnummern können manuell oder au-tomatisch per Zufall (Verlosung) vergeben werden.
+Die Startnummern werden pro Rennen den Teilnehmern zugewiesen. Dies erfolgt über die entsprechende **Renntabelle** in der Subtabelle **Startnummern**. Die Startnummern können manuell oder automatisch per Zufall (Verlosung) vergeben werden.
 
-**Hinweis:** Die Startnummern werden im Programm erst dann übernommen, wenn **Speichern** gedrückt wurde. Mit **Zurücksetzen** wird die Startnummernvergabe wieder zum letzten gespeicherten Stand zurückgesetzt.
+**Hinweis:** Die Startnummern werden im Programm erst dann übernommen, wenn **Speichern**{.btn .btn-secondary} gedrückt wurde. Mit **Zurücksetzen**{.btn .btn-secondary} wird die Startnummernvergabe wieder zum letzten gespeicherten Stand zurückgesetzt.
 
-**Hinweis:** Öfters kommt es vor, dass ein Startnummertrikot nicht genutzt werden kann. Race Horology unterstützt das "nichtvergeben" von bestimmten Startnummern. In **Nicht zu vergebene Startnummern** die Startnummern durch Komma getrennt eintragen, deren Startnummern nicht vergeben werden sollen.
+**Hinweis:** Sollte es vorkommen, dass ein Startnummertrikot nicht genutzt werden kann, ist es möglich in den Optionen im Feld **Nicht zu vergebene Startnummern** die Startnummern durch Komma getrennt einzutragen, deren Startnummern nicht vergeben werden sollen.
 
 ## Vorläufige Startliste
 
@@ -22,11 +22,11 @@ Der obere Bereich zeigt die vorläufige Startliste. Sie enthält pro Zeile die S
 
 Es kann vorkommen, dass manche Startnummern nicht vergeben sind. Mit dem Häkchen **Zeige leere Startnummern** können diese in der vorläufigen Startliste sichtbar gemacht werden. Dies ist hilfreich, um leere Startplätze bei einer manuellen Zuweisung zu identifizieren.
 
-Mit **Einfügen** kann eine Startnummer vor die markierte Zeile eingefügt werden. Alle Teilnehmer danach werden um eine Startnummer nach hinten verschoben.
+Mit **Einfügen**{.btn .btn-secondary} kann eine Startnummer vor die markierte Zeile eingefügt werden. Alle Teilnehmer danach werden um eine Startnummer nach hinten verschoben.
 
-Mit **Entfernen** kann eine oder mehrere markierte Zeilen entfernt werden. Alle Teilnehmer nach der entfernten Zeile werden entsprechend nach vorne verschoben.
+Mit **Entfernen**{.btn .btn-secondary} kann eine oder mehrere markierte Zeilen entfernt werden. Alle Teilnehmer nach der entfernten Zeile werden entsprechend nach vorne verschoben.
 
-**Alle Löschen** entfernt alle bisherigen Startnummernzuweisungen.
+**Alle Löschen**{.btn .btn-secondary} entfernt alle bisherigen Startnummernzuweisungen.
 
 ##	Startnummern manuell zuweisen
 
@@ -39,15 +39,15 @@ Teilnehmer können manuell einer Startnummer zugewiesen werden. Gehen Sie hierzu
 -	Einen oder mehrere Teilnehmer auswählen.
 
 Hinweis: Die Auswählreihenfolge bleibt erhalten und wird beim Zuteilen der Startnummer beachtet. 
--	Auf **Teilnehmer zuweisen** klicken. 
+-	Auf **Teilnehmer zuweisen**{.btn .btn-secondary} klicken. 
 
 Die ausgewählten Teilnehmer werden entsprechend der Auswahlreihenfolge aufeinanderfolgende Startnummern beginnend mit der angegebenen **Startnummer** zugewiesen.
 
-**Achtung:** Wird eine bereits zugewiesene Startnummer angegeben, so wird diese Belegung über-schrieben. Der Teilnehmer, der vorher dies Startnummer hatte, ist in dem Fall in der noch zuzuweisenden Teilnehmerliste zu finden.
+**Achtung:** Wird eine bereits zugewiesene Startnummer angegeben, so wird diese Belegung überschrieben. Der Teilnehmer, der vorher dies Startnummer hatte, ist in dem Fall in der noch zuzuweisenden Teilnehmerliste zu finden.
 
 ##	Startnummern zufällig vergeben (Verlosung)
 
-Typischerweise wird die Startreihenfolge verlost – sprich per Zufall vergeben. Dies erfolgt meist entsprechend einer Gruppierung.
+Typischerweise wird die Startreihenfolge verlost – per Zufall vergeben. Dies erfolgt meist entsprechend einer Gruppierung.
 
 Um Startnummern zufällig zu vergeben, gehen Sie wie folgt vor:
 
@@ -55,7 +55,7 @@ Um Startnummern zufällig zu vergeben, gehen Sie wie folgt vor:
 
 Dies kann nach Klasse, Gruppe, Geschlecht oder aber auch gar keiner Gruppierung sein.
 
--	Geben Sie die Verlosungszahl an. (wenn gewünscht)
+-	Geben Sie die Verlosungszahl an (sofern gewünscht).
 
 Die Verlosungszahl gibt an, wieviel Teilnehmer via Zufall verlost werden. Die restlichen Teilnehmer einer Gruppe werden entsprechend der Punkte absteigend oder aufsteigend sortiert zugeteilt. Ist die Verlosungszahl nicht angegeben, so werden alle Teilnehmer verlost.
 
@@ -69,13 +69,13 @@ Dies kann verwendet werden um z.B. zwischen Gruppen Platz für Nachmeldungen zu 
 
 -	Starten Sie die Startnummernzuweisung mit 
 
-  -	**Aktuelle Gruppe zuweisen**
+  -	**Aktuelle Gruppe zuweisen**{.btn .btn-secondary}
 
 Geben Sie hierzu noch die Nächste Gruppe an. Es werden nur die Teilnehmer der aktuellen Gruppe zugewiesen.
 
 oder 
 
--	**Alle Teilnehmer zuweisen**
+-	**Alle Teilnehmer zuweisen**{.btn .btn-secondary}
 
 Es werden alle restlichen Teilnehmer, Gruppe für Gruppe zugewiesen.
 

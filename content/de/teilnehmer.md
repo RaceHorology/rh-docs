@@ -7,7 +7,7 @@ eleventyNavigation:
 
 # Teilnehmer
 
-Race Horology unterscheidet zwischen Teilnehmer für einen Wettbewerb und Teilnehmern für ein Rennen. Grundsätzlich muss ein Teilnehmer eines Rennens auch ein Teilnehmer des Wettbewerbes sein. Weiterhin werden die Teilnehmer einer Klasse bzw. einer Gruppe zugeordnet. Diese sollten angelegt werden, bevor die Teilnehmer hinzugefügt werden. Es ist aber auch möglich die Klassen später über den Button **Alle Klassen neu zuweisen** noch zu aktualisieren.
+Race Horology unterscheidet zwischen Teilnehmer für einen Wettbewerb und Teilnehmern für ein Rennen. Grundsätzlich muss ein Teilnehmer eines Rennens auch ein Teilnehmer des Wettbewerbes sein. Weiterhin werden die Teilnehmer einer Klasse bzw. einer Gruppe zugeordnet. Diese sollten angelegt werden, bevor die Teilnehmer hinzugefügt werden. Es ist aber auch möglich die Klassen später über **Alle Klassen neu zuweisen**{.btn .btn-secondary} noch zu aktualisieren.
 
 ##	Teilnehmer manuell hinzufügen, ändern und löschen
 
@@ -15,7 +15,7 @@ Race Horology unterscheidet zwischen Teilnehmer für einen Wettbewerb und Teilne
 
 Teilnehmer können in der Tabelle **Teilnehmer & Globale Konfiguration** und Subtabelle **Teilnehmer** editiert werden. Teilnehmerdaten können sowohl direkt in der Tabelle (auf ein Feld Doppelklicken, um den Editiermodus zu aktivieren) als auch in der daneben befindlichen Detailansicht editiert werden.
 
-Um einen neuen Teilnehmer hinzuzufügen, drücken Sie **Teilnehmer hinzufügen**. Der Button **Teilnehmer löschen** löscht alle markierten Teilnehmer nach einer Sicherheitsabfrage. 
+Um einen neuen Teilnehmer hinzuzufügen, drücken Sie **Teilnehmer hinzufügen**{.btn .btn-secondary}. **Teilnehmer löschen**{.btn .btn-secondary} löscht alle markierten Teilnehmer nach einer Sicherheitsabfrage. 
 
 Achtung: Dem Teilnehmer wird automatisch eine passende Klasse zugewiesen sofern keine selbst gewählt wurde. Es ist möglich, dass diese Klasse nicht der gewünschten Klasse entspricht. 
 
@@ -36,7 +36,7 @@ Die Teilnehmer können einem oder mehreren Rennen zugewiesen sein. Man kann die 
 
 **Hinweis:** Durch das Auswählen von mehreren Teilnehmern, kann man mehrere Teilnehmer auf einmal zu einem Rennen hinzufügen oder entfernen. 
 
-+	Bei **Teilnehmer importieren** die entsprechenden Rennen angeben.
++	Bei **Teilnehmer importieren**{.btn .btn-secondary} die entsprechenden Rennen angeben.
 
 ##	Teilnehmer importieren
 
@@ -48,7 +48,7 @@ Folgende Importformate werden von Race Horology unterstützt:
 
 ![Daten-Import](../../assets/images/de/datenimport.png)
 
-Der Import-Wizard wird gestartet über den Button **Import** im Tab **Teilnehmer**. Nach dem Auswählen der Datei wird der Import-Wizard angezeigt. 
+Der Import-Wizard wird gestartet über **Import**{.btn .btn-secondary} im Tab **Teilnehmer**. Nach dem Auswählen der Datei wird der Import-Wizard angezeigt. 
 
 Im linken Bereich befindet sich die Datenvorschau. Sie zeigt die zu importierenden Daten an. 
 
@@ -56,7 +56,7 @@ Im rechten Bereich befindet sich oben die **Datenfeldzuordnung**. Pro Race Horol
 
 **Hinweis:** Die Datenfeldzuordnung versucht eine sinnvolle Datenzuordnung auf Basis der Feldbezeichnungen zu erraten.
 
-Im unteren rechten Bereich wird angegeben, zu welchem Rennen die Teilnehmer zugeordnet werden sollen. Aktivieren Sie die Rennen, zu denen die Teilnehmer importiert werden sollen – per Default sind dies alle.
+Im unteren rechten Bereich wird angegeben, zu welchem Rennen die Teilnehmer zugeordnet werden sollen. Aktivieren Sie die Rennen, zu denen die Teilnehmer importiert werden sollen – Standardmäßig sind dies alle.
 
 ###	Klassen und Gruppen zuweisen
 
@@ -66,15 +66,15 @@ Klassen und Gruppen müssen typischerweise nicht neu zugewiesen werden, da diese
 
 -	Auswahlbox bei Teilnehmer editieren
 
-Mit der Auswahlbox bei Teilnehmer editieren kann die Klasse explizit überschrieben werden.
+Mit der <span class="fas fa-square"></span> Auswahlbox bei Teilnehmer editieren kann die Klasse explizit überschrieben werden.
 
 -	Zurücksetzen bei Teilnehmer editieren
 
-Der Button **Zurücksetzen** setzt die Klasse für den aktuellen Teilnehmer wieder auf Basis des Jahrgangs des Teilnehmers zurück. 
+**Zurücksetzen**{.btn .btn-secondary} setzt die Klasse für den aktuellen Teilnehmer wieder auf Basis des Jahrgangs des Teilnehmers zurück. 
 
 -	Klassen aller Teilnehmer zurücksetzen
 
-Der Button **Klassen neu zuweisen** setzt die Klassen alle Teilnehmer auf Basis des Jahrgangs zurück.
+**Klassen neu zuweisen**{.btn .btn-secondary} setzt die Klassen alle Teilnehmer auf Basis des Jahrgangs zurück.
 
 ## Automatischer Abgleich mit Punkteliste
 

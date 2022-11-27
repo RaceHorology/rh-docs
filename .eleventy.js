@@ -4,8 +4,6 @@ module.exports = function (eleventyConfig) {
   const UpgradeHelper = require("@11ty/eleventy-upgrade-help");
   eleventyConfig.addPlugin(UpgradeHelper);
 
-  //eleventyConfig.addPlugin(markdownItTableX);
-
   //markdown-it
   const markdownIt = require('markdown-it');
   const markdownItAttrs = require('markdown-it-attrs');
@@ -16,8 +14,7 @@ module.exports = function (eleventyConfig) {
     linkify: false
   };
   const markdownLib = markdownIt(markdownItOptions)
-    .use(markdownItAttrs)
-    ;
+    .use(markdownItAttrs);
   eleventyConfig.setLibrary('md', markdownLib);
 
   eleventyConfig.setTemplateFormats("html, md, njk");
@@ -68,3 +65,19 @@ module.exports = function (eleventyConfig) {
     pathPrefix: process.env.MY_PREFIX
   }
 }
+
+/*
+Example manipulation script usefull for later
+eleventyConfig.addTransform('markdown-table', (content, outputPath) => {
+    if (!outputPath.endsWith('.html')) {
+        return content; // Not HTML, not concerned
+    }
+
+    if (!content.includes('<table')) {
+        return content; // No table, not concerned
+    }
+
+    return content.replace(/<table( [^>]+)?>/gm, '<table class="table table-bordered table-striped"$1>');
+});
+
+*/

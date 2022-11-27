@@ -16,7 +16,7 @@ In die Handzeitberechnung gelangt man über das Menü **Werkzeuge** und die Funk
 
 **Hinweis:** Für die Handzeitberechnung ist ein anderer COM-Port (Serielles Interface) als die normale Zeitnahme möglich. 
 
-**Achtung:** Sollte der gleiche Port genutzt werden, so ist bei aktiver Zeitnahme unten im Programm durch den Knopf *Trennen* der Port erst zu trennen. Ansonsten kommt es zu einer Fehlermeldung und die Handzeiten können nicht importiert werden. In diesem Fall sollte ein Import erst nach dem Rennen erfolgen. 
+**Achtung:** Sollte der gleiche Port genutzt werden, so ist bei aktiver Zeitnahme unten im Programm durch **Trennen**{.btn .btn-secondary} der Port erst zu trennen. Ansonsten kommt es zu einer Fehlermeldung und die Handzeiten können nicht importiert werden. In diesem Fall sollte ein Import erst nach dem Rennen erfolgen. 
 
 ![Zeitnahmetab](../../assets/images/de/handzeit.png)
  
@@ -32,7 +32,7 @@ Um die Handzeit zu laden, gehen Sie wie folgt vor:
 
 -	Wählen sie den richtigen **COM-Port** aus. (nicht bei Datei)
 
--	Starten sie den Ladevorgang mit **Laden**.
+-	Starten sie den Ladevorgang mit **Laden**{.btn .btn-secondary}.
 
 - Sie können diesen Vorgang mehrmals wiederholen - die neuen Zeiten werden dann zu bereits vorhandenen Zeiten zur Tabelle hinzugefügt.
 
@@ -52,7 +52,7 @@ o	Die Handzeit markieren
 
 o	Die korrekte Startnummer eintragen
 
-o	Auf **Zuordnen** drücken.
+o	Auf **Zuordnen**{.btn .btn-secondary} drücken.
 
 Die Startnummer und die (eventuell anderen) gemessenen Zeiten werden in einer Zeile angezeigt. Die Differenz ist typischerweise leer (unter der Annahme, dass die A-Zeit fehlt).
 
@@ -60,7 +60,7 @@ Die Startnummer und die (eventuell anderen) gemessenen Zeiten werden in einer Ze
 
 o	Die zu berechnende Zeit markieren.
 
-o	Auf **Berechnen** klicken.
+o	Auf **Berechnen**{.btn .btn-secondary} klicken.
 
 Mit dem Berechnen wird automatisch ein PDF erzeugt, dass die Zeiten, die zur Berechnung genutzt wurden, enthält.
 
@@ -68,12 +68,12 @@ Mit dem Berechnen wird automatisch ein PDF erzeugt, dass die Zeiten, die zur Ber
 
 -	Sie können jetzt weitere Handzeiten berechnen, machen Sie dazu einfach weitere Zuweisungen bzw. Berechnungen.
 
--	Um die berechneten Handzeiten zu übernehmen, drücken Sie **Speichern**.
+-	Um die berechneten Handzeiten zu übernehmen, drücken Sie **Speichern**{.btn .btn-secondary}.
 
 ### Handzeiten löschen
 
 Es ist möglich bereits geladene Zeiten zu löschen.
 
-- Klicken Sie auf **Handzeiten löschen**
+- Klicken Sie auf **Handzeiten löschen**{.btn .btn-secondary}
 
 **Achtung:** Es werden *alle* Zeiten gelöscht
