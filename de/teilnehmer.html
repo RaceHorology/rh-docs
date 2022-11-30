@@ -8,7 +8,7 @@
 <meta name="description" content="Race Horology Documentation">
 <meta name="author" content="Race Horology Development Team">
 
-<!-- Build time: 11/30/2022, 10:12:59 PM-->
+<!-- Build time: 11/30/2022, 10:50:24 PM-->
 
 <!-- Favicon -->
 <link rel="apple-touch-icon" sizes="57x57" href="/assets/favicon/apple-icon-57x57.png">
@@ -117,18 +117,18 @@
         
         <section id="idocs_start">
 
-        <h1>Teilnehmer</h1>
+        <h1 id="teilnehmer" tabindex="-1"><a class="header-anchor" href="#teilnehmer"></a> Teilnehmer</h1>
 <p>Race Horology unterscheidet zwischen Teilnehmer für einen Wettbewerb und Teilnehmern für ein Rennen. Grundsätzlich muss ein Teilnehmer eines Rennens auch ein Teilnehmer des Wettbewerbes sein. Weiterhin werden die Teilnehmer einer Klasse bzw. einer Gruppe zugeordnet. Diese sollten angelegt werden, bevor die Teilnehmer hinzugefügt werden. Es ist aber auch möglich die Klassen später über <strong class="btn btn-secondary">Alle Klassen neu zuweisen</strong> noch zu aktualisieren.</p>
-<h2>Teilnehmer manuell hinzufügen, ändern und löschen</h2>
+<h2 id="teilnehmer-verwalten" tabindex="-1"><a class="header-anchor" href="#teilnehmer-verwalten"></a> Teilnehmer verwalten</h2>
 <p><img src="../../assets/images/de/teilnehmerdaten.png" alt="Kategorien"></p>
 <p>Teilnehmer können in der Tabelle <strong>Teilnehmer &amp; Globale Konfiguration</strong> und Subtabelle <strong>Teilnehmer</strong> verwaltet werden.</p>
-<h3>Teilnehmer hinzufügen</h3>
+<h3 id="teilnehmer-hinzuf%C3%BCgen" tabindex="-1"><a class="header-anchor" href="#teilnehmer-hinzuf%C3%BCgen"></a> Teilnehmer hinzufügen</h3>
 <p>Um einen neuen Teilnehmer hinzuzufügen, drücken Sie <strong class="btn btn-secondary">Teilnehmer hinzufügen</strong>.</p>
 <p class="alert alert-warning"><strong class="badge badge-danger text-uppercase">Achtung:</strong> Dem Teilnehmer wird automatisch eine passende Klasse zugewiesen sofern keine selbst gewählt wurde. Es ist möglich, dass diese Klasse nicht der gewünschten Klasse entspricht.</p>
-<h3>Teilnehmer löschen</h3>
+<h3 id="teilnehmer-l%C3%B6schen" tabindex="-1"><a class="header-anchor" href="#teilnehmer-l%C3%B6schen"></a> Teilnehmer löschen</h3>
 <p><strong class="btn btn-secondary">Teilnehmer löschen</strong> löscht alle markierten Teilnehmer nach einer Sicherheitsabfrage.</p>
 <p class="alert alert-warning"><strong class="badge badge-danger text-uppercase">Achtung:</strong> Eventuell vorhandene Zeitdaten werden ebenso gelöscht.</p>
-<h3>Teilnehmer ändern</h3>
+<h3 id="teilnehmer-%C3%A4ndern" tabindex="-1"><a class="header-anchor" href="#teilnehmer-%C3%A4ndern"></a> Teilnehmer ändern</h3>
 <p>Werte eines Teilnehmers können sowohl direkt in der Tabelle (auf ein Feld Doppelklicken, um den Editiermodus zu aktivieren),  sowie in der daneben befindlichen Detailansicht editiert werden. Durch <strong class="btn btn-secondary">Speichern</strong> werden die geänderten Daten übernommen. <strong class="btn btn-secondary">Zurücksetzen</strong> zeigt die ursprünglichen Werte wieder an.</p>
 <p>Es ist auch möglich, mehrere Teilnehmer gleichzeitig zu ändern. Dies kann hilfreich sein, um z.B. Vereinsnamen oder Nationen zu ändern sowie mehrere Teilnehmer zu einem Rennen hinzuzufügen. Felder, die aktuell unterschiedliche Werte enthalten, werden mit den Hinweis <em><verschiedene></em> gekennzeichnet.</p>
 <p>Um mehrere Teilnehmer zu ändern, sind folgende Schritte notwendig:</p>
@@ -140,7 +140,7 @@
 <p>Verändere die Felder in der Detailansicht. Durch <strong class="btn btn-secondary">Speichern</strong> werden die geänderten Werte bei allen markierten Teilnehmer übernommen.</p>
 </li>
 </ul>
-<h3>Teilnehmer einem Rennen zuweisen</h3>
+<h3 id="teilnehmer-einem-rennen-zuweisen" tabindex="-1"><a class="header-anchor" href="#teilnehmer-einem-rennen-zuweisen"></a> Teilnehmer einem Rennen zuweisen</h3>
 <p>Die Teilnehmer können einem oder mehreren Rennen zugewiesen sein. Man kann die Rennteilnahme eines Teilnehmers auf drei Arten beeinflussen bzw. verändern:</p>
 <ul>
 <li>Häkchen in der Tabelle Teilnehmerdaten setzen oder entfernen</li>
@@ -148,7 +148,7 @@
 <li>Beim Importieren von Teilnehmern die entsprechenden Rennen angeben.</li>
 </ul>
 <p class="alert alert-success">Durch das Auswählen von mehreren Teilnehmern, kann man mehrere Teilnehmer auf einmal zu einem Rennen hinzufügen oder entfernen.</p>
-<h2>Teilnehmer importieren</h2>
+<h2 id="teilnehmer-importieren" tabindex="-1"><a class="header-anchor" href="#teilnehmer-importieren"></a> Teilnehmer importieren</h2>
 <p>Folgende Importformate werden von Race Horology unterstützt:</p>
 <ul>
 <li>Textfiles (Komma oder Tab getrennte Datenfelder – CSV, TSV, TXT)</li>
@@ -161,7 +161,7 @@
 <p>Im rechten Bereich befindet sich oben die <strong>Datenfeldzuordnung</strong>. Pro Race Horology Datenfeld kann ein Datenimportfeld ausgewählt werden. Vor dem Import ist es wichtig die korrekte Feldzuordnung sicherzustellen.</p>
 <p class="alert alert-success">Die Datenfeldzuordnung versucht eine sinnvolle Datenzuordnung auf Basis der Feldbezeichnungen zu erraten.</p>
 <p>Im unteren rechten Bereich wird angegeben, zu welchem Rennen die Teilnehmer zugeordnet werden sollen. Standardmäßig sind dies alle, aber durch deaktivieren können nicht gewünschte Rennen übersprüngen werden.</p>
-<h2>Klassen und Gruppen zuweisen</h2>
+<h2 id="klassen-und-gruppen-zuweisen" tabindex="-1"><a class="header-anchor" href="#klassen-und-gruppen-zuweisen"></a> Klassen und Gruppen zuweisen</h2>
 <p><img src="../../assets/images/de/teilnehmer_aendern.png" alt="Kategorien"></p>
 <p>Klassen und Gruppen müssen typischerweise nicht neu zugewiesen werden, da diese durch den Jahrgang festgelegt ist und automatisch zugewiesen werden. Dennoch gibt es folgende Möglichkeiten die Klasse einem Teilnehmer zuzuweisen:</p>
 <ul>
@@ -176,7 +176,7 @@
 <li>Klassen aller Teilnehmer zurücksetzen</li>
 </ul>
 <p><strong class="btn btn-secondary">Klassen neu zuweisen</strong> setzt die Klassen alle Teilnehmer auf Basis des Jahrgangs zurück.</p>
-<h3>Automatischer Abgleich mit Punkteliste</h3>
+<h3 id="automatischer-abgleich-mit-punkteliste" tabindex="-1"><a class="header-anchor" href="#automatischer-abgleich-mit-punkteliste"></a> Automatischer Abgleich mit Punkteliste</h3>
 <p>Sind Teilnehmer über eine Punkteliste importiert und haben sich Daten geändert, so wird die jeweilige Tabellenzeile orangefarben hinterlegt. Beispiele sind z.b. falscher Name, Vorname oder geänderte Punkte die noch nicht aktualisiert wurden.</p>
 
 
