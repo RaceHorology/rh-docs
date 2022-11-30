@@ -13,30 +13,41 @@ Race Horology unterscheidet zwischen Teilnehmer für einen Wettbewerb und Teilne
 
 ![Kategorien](../../assets/images/de/teilnehmerdaten.png)
 
-Teilnehmer können in der Tabelle **Teilnehmer & Globale Konfiguration** und Subtabelle **Teilnehmer** editiert werden. Teilnehmerdaten können sowohl direkt in der Tabelle (auf ein Feld Doppelklicken, um den Editiermodus zu aktivieren) als auch in der daneben befindlichen Detailansicht editiert werden.
+Teilnehmer können in der Tabelle **Teilnehmer & Globale Konfiguration** und Subtabelle **Teilnehmer** verwaltet werden. 
 
-Um einen neuen Teilnehmer hinzuzufügen, drücken Sie **Teilnehmer hinzufügen**{.btn .btn-secondary}. **Teilnehmer löschen**{.btn .btn-secondary} löscht alle markierten Teilnehmer nach einer Sicherheitsabfrage. 
+### Teilnehmer hinzufügen
 
-Achtung: Dem Teilnehmer wird automatisch eine passende Klasse zugewiesen sofern keine selbst gewählt wurde. Es ist möglich, dass diese Klasse nicht der gewünschten Klasse entspricht. 
+Um einen neuen Teilnehmer hinzuzufügen, drücken Sie **Teilnehmer hinzufügen**{.btn .btn-secondary}. 
+
+**Achtung:**{.badge .badge-danger .text-uppercase} Dem Teilnehmer wird automatisch eine passende Klasse zugewiesen sofern keine selbst gewählt wurde. Es ist möglich, dass diese Klasse nicht der gewünschten Klasse entspricht. {.alert .alert-warning}
+
+### Teilnehmer löschen
+
+**Teilnehmer löschen**{.btn .btn-secondary} löscht alle markierten Teilnehmer nach einer Sicherheitsabfrage. 
 
 **Achtung:**{.badge .badge-danger .text-uppercase} Eventuell vorhandene Zeitdaten werden ebenso gelöscht. {.alert .alert-warning}
 
-Es ist auch möglich mehrere Teilnehmer gleichzeitig zu ändern. Dies kann hilfreich sein, um z.B. Vereinsnamen oder Nationen zu ändern sowie mehrere Teilnehmer zu einem Rennen hinzuzufügen. Gehen Sie hierzu wie folgt vor:
+### Teilnehmer ändern
 
--	Selektieren Sie die zu bearbeitenden Teilnehmer in der Tabelle (<Shift> oder <Strg> beim Auswählen halten).
+Werte eines Teilnehmers können sowohl direkt in der Tabelle (auf ein Feld Doppelklicken, um den Editiermodus zu aktivieren),  sowie in der daneben befindlichen Detailansicht editiert werden. Durch **Speichern**{.btn .btn-secondary} werden die geänderten Daten übernommen. **Zurücksetzen**{.btn .btn-secondary} zeigt die ursprünglichen Werte wieder an. 
 
--	Verändern Sie die Felder in der Detailansicht. Die Änderungen werden bei allen ausgewählten Teilnehmern sichtbar, sobald der Cursor das Feld verlassen hat (sie also irgendwo anders hingedrückt haben).
+Es ist auch möglich, mehrere Teilnehmer gleichzeitig zu ändern. Dies kann hilfreich sein, um z.B. Vereinsnamen oder Nationen zu ändern sowie mehrere Teilnehmer zu einem Rennen hinzuzufügen. Felder, die aktuell unterschiedliche Werte enthalten, werden mit den Hinweis *<verschiedene>* gekennzeichnet.
 
-##	Teilnehmer einem Rennen zuweisen
+Um mehrere Teilnehmer zu ändern, sind folgende Schritte notwendig:
+
+-	Selektiere die zu bearbeitenden Teilnehmer in der Tabelle (<Shift> oder <Strg> beim Auswählen halten).
+
+-	Verändere die Felder in der Detailansicht. Durch **Speichern**{.btn .btn-secondary} werden die geänderten Werte bei allen markierten Teilnehmer übernommen.
+
+###	Teilnehmer einem Rennen zuweisen
 
 Die Teilnehmer können einem oder mehreren Rennen zugewiesen sein. Man kann die Rennteilnahme eines Teilnehmers auf drei Arten beeinflussen bzw. verändern:
 
-+ 	Häkchen in der Tabelle Teilnehmerdaten setzen oder entfernen
-+ 	Häkchen in der Detailansicht setzen oder entfernen
+- Häkchen in der Tabelle Teilnehmerdaten setzen oder entfernen
+- Häkchen in der Detailansicht setzen oder entfernen
+-	Beim Importieren von Teilnehmern die entsprechenden Rennen angeben.
 
 Durch das Auswählen von mehreren Teilnehmern, kann man mehrere Teilnehmer auf einmal zu einem Rennen hinzufügen oder entfernen. {.alert .alert-success}
-
-+	Bei **Teilnehmer importieren**{.btn .btn-secondary} die entsprechenden Rennen angeben.
 
 ##	Teilnehmer importieren
 
@@ -52,13 +63,13 @@ Der Import-Wizard wird gestartet über **Import**{.btn .btn-secondary} im Tab **
 
 Im linken Bereich befindet sich die Datenvorschau. Sie zeigt die zu importierenden Daten an. 
 
-Im rechten Bereich befindet sich oben die **Datenfeldzuordnung**. Pro Race Horology Datenfeld kann ein Datenimportfeld ausgewählt werden. Stellen Sie hier die korrekte Feldzuordnung sicher.
+Im rechten Bereich befindet sich oben die **Datenfeldzuordnung**. Pro Race Horology Datenfeld kann ein Datenimportfeld ausgewählt werden. Vor dem Import ist es wichtig die korrekte Feldzuordnung sicherzustellen.
 
 Die Datenfeldzuordnung versucht eine sinnvolle Datenzuordnung auf Basis der Feldbezeichnungen zu erraten. {.alert .alert-success}
 
-Im unteren rechten Bereich wird angegeben, zu welchem Rennen die Teilnehmer zugeordnet werden sollen. Aktivieren Sie die Rennen, zu denen die Teilnehmer importiert werden sollen – Standardmäßig sind dies alle.
+Im unteren rechten Bereich wird angegeben, zu welchem Rennen die Teilnehmer zugeordnet werden sollen. Standardmäßig sind dies alle, aber durch deaktivieren können nicht gewünschte Rennen übersprüngen werden.
 
-###	Klassen und Gruppen zuweisen
+##	Klassen und Gruppen zuweisen
 
 ![Kategorien](../../assets/images/de/teilnehmer_aendern.png)
 
@@ -76,6 +87,6 @@ Mit der <span class="fas fa-square"></span> Auswahlbox bei Teilnehmer editieren 
 
 **Klassen neu zuweisen**{.btn .btn-secondary} setzt die Klassen alle Teilnehmer auf Basis des Jahrgangs zurück.
 
-## Automatischer Abgleich mit Punkteliste
+### Automatischer Abgleich mit Punkteliste
 
 Sind Teilnehmer über eine Punkteliste importiert und haben sich Daten geändert, so wird die jeweilige Tabellenzeile orangefarben hinterlegt. Beispiele sind z.b. falscher Name, Vorname oder geänderte Punkte die noch nicht aktualisiert wurden.
