@@ -21,3 +21,7 @@ npm update npm
 ## update 11ty
 
 npm install @11ty/eleventynode
+
+## install now modules
+
+npm install --save <nameofthemodule>

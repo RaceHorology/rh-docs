@@ -9,7 +9,7 @@ eleventyNavigation:
 
 Race Horology unterscheidet zwischen Teilnehmer für einen Wettbewerb und Teilnehmern für ein Rennen. Grundsätzlich muss ein Teilnehmer eines Rennens auch ein Teilnehmer des Wettbewerbes sein. Weiterhin werden die Teilnehmer einer Klasse bzw. einer Gruppe zugeordnet. Diese sollten angelegt werden, bevor die Teilnehmer hinzugefügt werden. Es ist aber auch möglich die Klassen später über **Alle Klassen neu zuweisen**{.btn .btn-secondary} noch zu aktualisieren.
 
-##	Teilnehmer manuell hinzufügen, ändern und löschen
+##	Teilnehmer verwalten
 
 ![Kategorien](../../assets/images/de/teilnehmerdaten.png)
 

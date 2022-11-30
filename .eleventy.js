@@ -7,14 +7,23 @@ module.exports = function (eleventyConfig) {
   //markdown-it
   const markdownIt = require('markdown-it');
   const markdownItAttrs = require('markdown-it-attrs');
+  const markdownItAnchor = require("markdown-it-anchor");
 
   const markdownItOptions = {
     html: true,
     breaks: true,
     linkify: false
   };
+
+  const markdownItAnchorOptions = {
+    permalink: true,
+    permalinkSymbol: '',
+    permalinkBefore: true,
+  };
+  
   const markdownLib = markdownIt(markdownItOptions)
-    .use(markdownItAttrs);
+    .use(markdownItAttrs)
+    .use(markdownItAnchor, markdownItAnchorOptions);
   eleventyConfig.setLibrary('md', markdownLib);
 
   eleventyConfig.setTemplateFormats("html, md, njk");
