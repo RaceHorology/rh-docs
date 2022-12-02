@@ -2,7 +2,7 @@
 layout: layouts/docs.njk
 eleventyNavigation:
   key: Häufige Fehler (FAQ)
-  order: 13
+  order: 14
 ---
 
 # Häufige Fehler und die Lösung dazu
