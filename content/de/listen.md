@@ -27,7 +27,7 @@ Die Gruppierung kann direkt daneben ausgewählt werden. Standardmäßig werden d
 
 ## Angezeigte Spalte bearbeiten
 
-Es ist möglich durch einen <rechtsklick> auf die Spaltenüberschriften zu bestimmen, welche Spalten angezeigt werden sollen. Die gewählte Einstellung wird auf dem Computer gespeichert. 
+Es ist möglich durch einen \<rechtsklick> auf die Spaltenüberschriften zu bestimmen, welche Spalten angezeigt werden sollen. Ebenso lassen sich die Spalten über Drag & Drop verschieben. Die Ansicht wird auf dem Computer gespeichert. 
 
 ## Listen drucken
 
