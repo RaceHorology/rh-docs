@@ -3,7 +3,7 @@ layout: layouts/docs.njk
 eleventyNavigation:
   key: Live Timing
   parent: Renndurchführung
-  order: 62
+  order: 2
 ---
 
 # Renndurchführung

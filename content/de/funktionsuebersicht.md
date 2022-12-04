@@ -2,7 +2,7 @@
 layout: layouts/docs.njk
 eleventyNavigation:
   key: Funktionsübersicht
-  order: 2
+  order: 1
 ---
 
 # Funktionsübersicht
