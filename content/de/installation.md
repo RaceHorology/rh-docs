@@ -31,6 +31,8 @@ Der Installationsassistent kann immer mit "Weiter" oder "Installieren" fortgefü
 
 Das Programm ist danach über das Startmenü aufrufbar. 
 
+[ Video zur Installation](videos/installieren.html){.fab .fa-youtube}
+
 ## Programm aktualisieren (Update)
 
 Falls es eine neue Version des Programms gibt, kann die Installationsdatei erneut heruntergeladen und installiert werden (siehe oben). Persönliche Änderungen und Einstellungen (z.B. Templates) werden dabei nicht überschrieben (Außnahmen hierzu werden in der [Änderungshistorie](changelog.html) bekanntgegeben).
