@@ -23,15 +23,21 @@ Der Zeitnahmebereich zeigt drei Listen an:
 -	im mittleren Bereich die Rennläufer die gerade auf der Strecke sind und 
 -	im unteren Bereich ist das aktuelle Klassement ersichtlich. 
 
+Zusätzlich kann über die Optionen der Bereich "Zeitstempel-Teilnehmer-Zuweisungbereich" angezeigt werden. (Experimentelle Funktion)
+
 ###	Online Zeitnahme
 
-Um die Zeiten direkt aus dem Zeitnahmegerät während des Rennens zu übernehmen muss man Online Gehen. Das Online Gehen erfolgt über  **Verbinden**{.btn .btn-secondary} im Zeitnahmebereich in der Statuszeile des Programms. 
+Um die Zeiten direkt aus dem Zeitnahmegerät während des Rennens zu übernehmen muss die Zeitnahme aktiv sein. Zuerst muss das Zeitnahmegerät (Schnittselle) mit **Verbinden**{.btn .btn-secondary} im Zeitnahmebereich in der Statuszeile des Programms aktiviert werden. Danach über den "Starten"-Knopf die Zeitnahme starten. Dies wird auch mit einem orange hinterlegten Hinweis angezeigt.
+
+![Zeitnahme ist gestoppt!](../../assets/images/de/zeitmessung_gestoppt.png)
+
+**Achtung:**{.badge .badge-danger .text-uppercase} Ohne verbundene Schnittstelle UND gestarteter Zeitnahme werden keine Daten übernommen! {.alert .alert-warning}
 
 ![Zeitnahmetab](../../assets/images/de/statuszeile.png)
 
-Wenn man online ist, ist es nicht möglich den aktuellen Durchgang zu wechseln. Um den Durchgang zu wechseln, gehen Sie Offline, wechseln Sie den Durchgang und gehen danach wieder Online. {.alert .alert-success}
+Während der Zeitnahme, ist es nicht möglich den aktuellen Durchgang zu wechseln. Um den Durchgang zu wechseln, Zeitnahme stoppen, den Durchgang wechseln und gehen danach wieder starten. {.alert .alert-success}
 
-Das verwendete Zeitnahmegerät und der verwendete COM Port kann im Menü Optionen eingestellt werden. {.alert .alert-success}
+Das verwendete Zeitnahmegerät und der COM Port (Schnittstelle) kann im Menü Optionen eingestellt werden. {.alert .alert-success}
 
 ###	Zeitnahme Hilfsfunktionen
 
@@ -39,16 +45,25 @@ Es gibt folgende Zeitnahme Hilfsfunktionen. Entsprechende Zeit-Einstellungen kö
 
 •	**Automatisch nicht im Ziel**
 
-Wenn ein Läufer nach einer bestimmten Zeit nicht im Ziel ist, wird dieser automatisch als „nicht im Ziel“ (NiZ) gewertet.
+Wenn ein Läufer nach einer bestimmten Zeit nicht im Ziel ist, wird dieser automatisch als „nicht im Ziel“ (NIZ) gewertet.
 
 •	**Automatisch nicht im Start**
 
-Wenn eine bestimmte Anzahl Starter nach einem nicht gestarteten Läufer gestartet sind, wird der nicht gestartete Läufer automatisch als "nicht am Start" (NaS) gewertet. 
+Wenn eine bestimmte Anzahl Starter nach einem nicht gestarteten Läufer gestartet sind, wird der nicht gestartete Läufer automatisch als "nicht am Start" (NAS) gewertet. 
 
 Standardmäßig ist diese Option auf 9999 Läufer gesetzt, um bei Nachmeldungen "nicht am Start" für den Läufer nicht zu setzen. Dieser Wert kann im Menü "Optionen" geändert werden. {.alert .alert-success}
 
 •	**„Start Frei! – Signal“**
-Das „Start Frei! – Signal“ erscheint nach einer einstellbaren Zeit, nachdem ein Läufer gestartet ist. Hierbei ertönt auch ein Signalton. 
+
+Das „Start Frei! – Signal“ mit Countdown erscheint nach einer einstellbaren Zeit (Optionsmenü), nachdem ein Läufer gestartet ist. 
+
+![Start Frei in 40 Sekunden!](../../../assets/images/de/zeitmessung_startfreiinX.png)
+
+Danach schaltet das Signal wieder zurück auf grün:
+
+![Start Frei!](../../../assets/images/de/zeitmessung_startfrei.png)
+
+Diese Funktion kann als Ersatz für eine Startuhr genutzt werden. Hierbei ertönt auch ein Signalton.
 
 ###	Zeitnahme Testfunktionen
 
