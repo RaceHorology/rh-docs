@@ -27,13 +27,15 @@ Zusätzlich kann über die Optionen der Bereich "Zeitstempel-Teilnehmer-Zuweisun
 
 ###	Online Zeitnahme
 
-Um die Zeiten direkt aus dem Zeitnahmegerät während des Rennens zu übernehmen muss die Zeitnahme aktiv sein. Zuerst muss das Zeitnahmegerät (Schnittselle) mit **Verbinden**{.btn .btn-secondary} im Zeitnahmebereich in der Statuszeile des Programms aktiviert werden. Danach über den "Starten"-Knopf die Zeitnahme starten. Dies wird auch mit einem orange hinterlegten Hinweis angezeigt.
+Um die Zeiten direkt aus dem Zeitnahmegerät während des Rennens zu übernehmen muss die Zeitnahme aktiv sein. Zuerst muss das Zeitnahmegerät (Schnittselle) mit **Verbinden**{.btn .btn-secondary} im Zeitnahmebereich in der Statuszeile des Programms aktiviert werden. 
+
+![Zeitnahme verbinden](../../assets/images/de/zeitnahme_verbinden.png)
+
+Danach über den "Starten"-Knopf die Zeitnahme starten. Dies wird auch mit einem orange hinterlegten Hinweis angezeigt.
 
 ![Zeitnahme ist gestoppt!](../../assets/images/de/zeitmessung_gestoppt.png)
 
 **Achtung:**{.badge .badge-danger .text-uppercase} Ohne verbundene Schnittstelle UND gestarteter Zeitnahme werden keine Daten übernommen! {.alert .alert-warning}
-
-![Zeitnahmetab](../../assets/images/de/statuszeile.png)
 
 Während der Zeitnahme, ist es nicht möglich den aktuellen Durchgang zu wechseln. Um den Durchgang zu wechseln, Zeitnahme stoppen, den Durchgang wechseln und gehen danach wieder starten. {.alert .alert-success}
 
