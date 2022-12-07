@@ -17,6 +17,7 @@ Tester oder Experiementierfreudige finden die Beta-Versionen direkt auf [GitHub]
 ##	Anforderungen
 
 - Unterstützte Betriebssysteme: Windows 10, Windows 11
+- Freier Speicherplatz: 500 MB
 - Für Livetiming oder Download von Punktelisten: Netzwerkkarte (Funk oder Kabelgebunden) mit Internetverbindung. 
 - Für Externe Anzeige: Netzwerkkarte (Funk oder Kabelgebunden) mit lokalem Netzwerk.
 - Administratorberechtigung (nur für die Installation)
