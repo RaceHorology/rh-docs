@@ -33,6 +33,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("CNAME");
   eleventyConfig.addPassthroughCopy(".nojekyll");
 
+  //autoUpdater used in RH application for version check
+    eleventyConfig.addPassthroughCopy("rh.versions");
+
   //eleventyConfig.addShortcode("myPrefix", () => process.env.MY_PREFIX);
   
   const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
