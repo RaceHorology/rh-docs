@@ -16,7 +16,7 @@ Das Erstellen und Editieren von Gruppen findet man in der Tabelle **Teilnehmerda
 
 Um eine neue Gruppe oder Klasse anzulegen, muss man in der entsprechenden leeren Zeile die Daten eingeben. Um eine Gruppe oder Klasse zu löschen, auf das entsprechende „X“ klicken.
 
-Die Reihenfolge in der Ansicht wird so auf allen Berichten und Listen übernommen. Mittels Drag and Drop können die Einträge verschoben werden, um die Reihenfolge innerhalb der Gruppen und Klassen zu ändern.
+Die Reihenfolge in dieser Ansicht wird so auf allen Berichten und Listen übernommen. Mittels Drag and Drop können die Einträge verschoben werden, um die Reihenfolge innerhalb der Gruppen und Klassen zu ändern.
 
 Beim Jahrgang kann auch das Alter angegeben werden. Das Alter wird in die entsprechende Jahreszahl umgewandelt. Annahme hierfür ist, dass die Saison immer am 1. Oktober eines Jahres anfängt. {.alert .alert-success}
 
