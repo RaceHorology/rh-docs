@@ -15,7 +15,7 @@ Bitte stelle sicher, dass in der Konfiguration (Lokal oder Global) ein Maximalwe
 
 ##### 2. Die Externe Anzeige (Sprecheransicht) funktioniert nicht mit dem Safari Webbrowser (z.b. auf Iphone oder Mac)
 
-Hierbei handelt es sich möglicherweise um einen Fehler in Safari. Es existiert eine Möglichkeit dieses Problem zu umgehen. Hierfür sind nachfolgende Schritte auszuführen: 
+Hierbei handelt es sich möglicherweise um einen Fehler in älteren Safari-Versionen. Es existiert eine Möglichkeit dieses Problem zu umgehen. Hierfür sind nachfolgende Schritte auszuführen: 
 
 1. Gehe zu "Einstellungen" > "Safari" > "Erweitert" > "Experimentelle Features"
 2. Setze die Option "NSURLSession Websocket" auf **aus**. 
