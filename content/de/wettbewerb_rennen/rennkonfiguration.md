@@ -47,9 +47,32 @@ Die 2 besten Zeiten aus allen Durchgängen werden gewertet.
 
 Die Zeiten aus allen Durchgängen werden zusammengerechnet.
 
-###### Summe + Punkte nach DSV Schülerreglement
+###### Summe + Punkte nach IWO/DWO
 
 Wie Summe, jedoch wird zusätzlich beim Druck die Punkteberechnung mit ausgegeben. Diese Einstellung ist für DSV Schülerpunkterennen aber auch FIS-Rennen einzustellen.
+
+###### Summe + Punkte nach Tabelle
+
+Wie Summe, jedoch wird zusätzlich beim Druck die Punkteberechnung mit ausgegeben. Die Punkte werden standardmässig nach folgender internen Tabelle berechnet:
+
+| Platz | Punkte |
+| ----- | ------ |
+| 1     | 15     |
+| 2     | 12     |
+| 3     | 10     |
+| 4     | 8      |
+| 5     | 6      |
+| 6     | 5      |
+| 7     | 4      |
+| 8     | 3      |
+| 9     | 2      |
+| 10    | 1      |
+
+{.table .table-bordered .table-striped}
+
+Es ist auch möglich eigene Punkte je Platz zu definieren. Hierzu ist eine Datei *"PointsTable.txt"* im selben Ordner wie die Bewerbsdatei anzulegen. In die Datei sind nur die Punkte nach Platz einzutragen, beginnend mit Platz 1 in der ersten Zeile. Dezimalzahlen werden ebenfalls unterstützt (mit Punkt als Trennzeichen). 
+
+Wir haben eine [Beispieldatei](../../assets/downloads/PointsTable.txt) bereitgestellt.
 
 ## Durchgang 1 
 
