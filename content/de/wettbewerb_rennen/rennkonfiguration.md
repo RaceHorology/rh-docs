@@ -74,6 +74,8 @@ Es ist auch möglich eigene Punkte je Platz zu definieren. Hierzu ist eine Datei
 
 Wir haben eine [Beispieldatei](../../assets/downloads/PointsTable.txt) bereitgestellt.
 
+**Achtung:**{.badge .badge-danger .text-uppercase} Soll eine eigene Punktedatei verwendet werden, muss der Bewerb neu geladen werden, um die Werte zu übernehmen! {.alert .alert-warning}
+
 ## Durchgang 1 
 
 Die Gruppierung ist vor allem für die Startnummernvergabe ausschlaggebend. Folgende Gruppierungen sind vorhanden:
