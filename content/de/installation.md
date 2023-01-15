@@ -12,7 +12,7 @@ Die letzte stabile Version kann über die [Downloadseite](https://race-horology.
 
 Tester oder Experiementierfreudige finden die Beta-Versionen direkt auf [GitHub](https://github.com/RaceHorology/RaceHorology/releases).
 
-**Vorsicht:**{.badge .badge-danger .text-uppercase} Beta-Versionen können zwar neue Features, aber auch Bugs enthalten, da diese Version nicht ausgiebig getestet wurden. {.alert .alert-warning}
+**Vorsicht:**{.badge .badge-danger .text-uppercase} Beta-Versionen können zwar neue Features, aber auch Bugs enthalten, da diese Versionen nicht ausgiebig getestet wurden. {.alert .alert-warning}
 
 ##	Anforderungen
 
@@ -36,4 +36,8 @@ Das Programm ist danach über das Startmenü aufrufbar.
 
 ## Programm aktualisieren (Update)
 
-Falls es eine neue Version des Programms gibt, kann die Installationsdatei erneut heruntergeladen und installiert werden (siehe oben). Persönliche Änderungen und Einstellungen (z.B. Templates) werden dabei nicht überschrieben (Außnahmen hierzu werden in der [Änderungshistorie](changelog.html) bekanntgegeben).
+Über den Menüpunkt *Hilfe* -> *Suche nach Updates* lässt sich das Programm sehr einfach aktualisieren. Sollte ein Update verfügbar sein wird ein Fenster mit weiteren Infos angezeigt und das Update lässt sich starten. Sollte kein Update verfügbar sein, erscheint eine einfache Meldung darüber.
+
+Alternativ kann die Installationsdatei erneut heruntergeladen und installiert werden (siehe oben). 
+
+Persönliche Änderungen und Einstellungen (z.B. Templates) werden bei einem Update in der Regel nicht überschrieben (Außnahmen hierzu werden in der [Änderungshistorie](changelog.html) bekanntgegeben).
