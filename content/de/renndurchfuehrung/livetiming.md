@@ -30,6 +30,8 @@ Jede Änderung, die ab sofort passiert, wird unmittelbar an rennmeldung.de über
 
 Weiterhin ist es möglich einen Status bzw. Kommentar für die Zuschauer zu hinterlassen. Geben Sie diesen in dem unteren Feld „Live Timing – Status“ ein. Der Text wird automatisch übertragen.
 
+rennmeldung.de stellt für Tests Zugangsdaten zur Verfügung. Diese sind: Bewerbsnummer "01122" und Login/Password "livetiming". Bitte beachten, dass es möglich ist, dass bereits andere Benutzer diesen Testbewerb nutzen und es so zu Überschneidungen kommen kann. 
+
 ###	FIS Live Timing
 
 ![fislivetimingconfiguration](../../assets/images/de/livetimingfis.png)
