@@ -41,6 +41,10 @@ Diese Seite enthält wichtige Informationen und Nachschlagewerte für Zeitnehmer
 
 Nach dem Rennen (bis spätestens 21 Uhr) die generierte XML-Datei an [christian.scholz@deutscherskiverband.de](mailto:christian.scholz@deutscherskiverband.de) senden
 
+### DSV Punkterennen Jugend/Senioren
+
+Nach dem Rennen (bis spätestens 21 Uhr) die generierte XML-Datei an [andreas.kindsmueller@deutscherskiverband.de](mailto:andreas.kindsmueller@deutscherskiverband.de) senden
+
 #### Rennbeschränkungen
 
 - U16: max. 25 Rennen pro Saison, max. 1 Rennen pro Tag
@@ -86,10 +90,11 @@ Nach dem Rennen (bis spätestens 21 Uhr) die generierte XML-Datei an [christian.
 | Kategorie 3 | Parallelrennen             | 30                  |
 | "           | Indoor                     | 30                  |
 | "           | alle anderen               | 25                  |
+| Punkterennen Jugend/Senioren | alle Bewerbe | 60 |
 
 {.table .table-bordered .table-striped}
 
-##### Adder
+##### Adder DSV Schülerpunkterennen
 
 |                                      | Adder |
 | ------------------------------------ | ----- |
@@ -100,5 +105,15 @@ Nach dem Rennen (bis spätestens 21 Uhr) die generierte XML-Datei an [christian.
 {.table .table-bordered .table-striped}
 
 Es ist auch möglich 2 Adder anzuwenden. Adder werden auf den berechneten Zuschlag (auch Mindestzuschlag) hinzugerechnet.
+
+*Riesenslalom mit weniger als 140 Höhenmeber werden nicht gewertet!
+
+##### Adder DSV Üunkterennen Junioren/Senioren
+
+|                                      | Adder |
+| ------------------------------------ | ----- |
+| Riesenslalom mit 140-199 Höhenmeter* | 10    |
+
+{.table .table-bordered .table-striped}
 
 *Riesenslalom mit weniger als 140 Höhenmeber werden nicht gewertet!
