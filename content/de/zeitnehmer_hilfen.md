@@ -26,9 +26,9 @@ Diese Seite enthält wichtige Informationen und Nachschlagewerte für Zeitnehmer
 
 | Nr. Verband/Gau |  Lfd. Nummer  | Geschlecht | Disziplinkürzel | Geschlecht | Disziplinkürzel |
 | --------------- |:-------------:|:----------:|:---------------:|:----------:|:---------------:|
-| 01-39=LSV/Gaue  | chronologisch |  D=Damen   | R=Riesenslalom  |  D=Damen   | R=Riesenslalom  |
-| 50=DHS          |      im       |  H=Herren  |    S=Slalom     |            |    S=Slalom     |
-| 60=Liga         |   Kalender    |            |   X=Skicross    |  H=Herren  |   X=Skicross    |
+| 01-39=LSV/Gaue  | chronologisch |  D=Damen   | R=Riesenslalom  |  H=Herren  | R=Riesenslalom  |
+| 50=DHS          |      im       |  M=Mädchen |    S=Slalom     |  B=Buben   |    S=Slalom     |
+| 60=Liga         |   Kalender    |            |   X=Skicross    |            |   X=Skicross    |
 | 70=DSL          |               |            |                 |            |                 |
 | 80=Skicross     |               |            |                 |            |                 |
 |                 |               |            |                 |            |                 |
