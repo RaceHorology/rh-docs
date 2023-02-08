@@ -108,7 +108,7 @@ Es ist auch möglich 2 Adder anzuwenden. Adder werden auf den berechneten Zuschl
 
 *Riesenslalom mit weniger als 140 Höhenmeber werden nicht gewertet!
 
-##### Adder DSV Üunkterennen Junioren/Senioren
+##### Adder DSV Punkterennen Junioren/Senioren
 
 |                                      | Adder |
 | ------------------------------------ | ----- |
