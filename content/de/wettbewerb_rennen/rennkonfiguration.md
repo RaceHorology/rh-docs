@@ -51,9 +51,9 @@ Die Zeiten aus allen Durchgängen werden zusammengerechnet.
 
 Wie Summe, jedoch wird zusätzlich beim Druck die Punkteberechnung mit ausgegeben. Diese Einstellung ist für DSV Schülerpunkterennen aber auch FIS-Rennen einzustellen.
 
-###### Summe + Punkte nach Tabelle
+###### Summe + Punkte nach Tabelle gesamt / pro Lauf
 
-Wie Summe, jedoch wird zusätzlich beim Druck die Punkteberechnung mit ausgegeben. Die Punkte werden standardmässig nach folgender internen Tabelle berechnet:
+Wie Summe (Gesamt) oder Berechnung nach jedem Lauf separat (pro Lauf), jedoch wird zusätzlich beim Druck die Punkteberechnung mit ausgegeben. Die Punkte werden standardmässig nach folgender internen Tabelle berechnet:
 
 | Platz | Punkte |
 | ----- | ------ |
@@ -75,6 +75,10 @@ Es ist auch möglich eigene Punkte je Platz zu definieren. Hierzu ist eine Datei
 Wir haben eine [Beispieldatei](../../assets/downloads/PointsTable.txt) bereitgestellt.
 
 **Achtung:**{.badge .badge-danger .text-uppercase} Soll eine eigene Punktedatei verwendet werden, muss der Bewerb neu geladen werden, um die Werte zu übernehmen! {.alert .alert-warning}
+
+#### Penaltyregelung
+
+Wenn der Haken bei **Penaltyregelung** gesetzt ist, wird diese angewandt. Es ist möglich zwischen *Bestzeit + Sekunden* und *Bestzeit + Prozent" zu wählen. Alle Läufer (auch ausgeschiedene) erhalten dann die Zeit des besten Läufers bzw. der besten Läuferin + die gewählten Sekunden/Prozent sollte ihre eigene Zeit schlechter sein. 
 
 ## Durchgang 1 
 
