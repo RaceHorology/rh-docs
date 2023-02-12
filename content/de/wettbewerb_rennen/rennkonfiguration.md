@@ -78,7 +78,7 @@ Wir haben eine [Beispieldatei](../../assets/downloads/PointsTable.txt) bereitges
 
 #### Penaltyregelung
 
-Wenn der Haken bei **Penaltyregelung** gesetzt ist, wird diese angewandt. Es ist möglich zwischen *Bestzeit + Sekunden* und *Bestzeit + Prozent" zu wählen. Alle Läufer (auch ausgeschiedene) erhalten dann die Zeit des besten Läufers bzw. der besten Läuferin + die gewählten Sekunden/Prozent sollte ihre eigene Zeit schlechter sein. 
+Wenn die Option **Penaltyregelung** gesetzt ist, wird diese angewandt. Es ist möglich zwischen *Bestzeit + Sekunden* und *Bestzeit + Prozent* zu wählen. Alle Läufer (auch ausgeschiedene) erhalten dann die Zeit des besten Läufers bzw. der besten Läuferin + die gewählten Sekunden/Prozent sollte ihre eigene Zeit schlechter sein. 
 
 ## Durchgang 1 
 
