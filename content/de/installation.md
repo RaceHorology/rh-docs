@@ -41,3 +41,7 @@ Das Programm ist danach über das Startmenü aufrufbar.
 Alternativ kann die Installationsdatei erneut heruntergeladen und installiert werden (siehe oben). 
 
 Persönliche Änderungen und Einstellungen (z.B. Templates) werden bei einem Update in der Regel nicht überschrieben (Außnahmen hierzu werden in der [Änderungshistorie](changelog.html) bekanntgegeben).
+
+### Update Kanäle
+
+Für das automatische Update gibt es 2 verschiedene Kanäle (Stabil und Test). Standardmässig ist der Stabile Kanal ausreichend, es gibt aber selten Aktualisierungen. Der Testkanal erhält für jede weiterentwicklung öfter Aktualisierungen. Es ist aber möglich dass in diesen Updates Fehler enthalten sind.
