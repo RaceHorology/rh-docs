@@ -32,6 +32,15 @@ Weiterhin ist es möglich einen Status bzw. Kommentar für die Zuschauer zu hint
 
 rennmeldung.de stellt für Tests Zugangsdaten zur Verfügung. Diese sind: Bewerbsnummer "01122" und Login/Password "livetiming". Bitte beachten, dass es möglich ist, dass bereits andere Benutzer diesen Testbewerb nutzen und es so zu Überschneidungen kommen kann. 
 
+### Raceengine LiveTiming
+
+Sollte der Bewerb über raceegine.de abgewickelt werden, ist das LiveTiming auch mit RaceHorology möglich. Dies wurde auch getestet. 
+
+Der Bewerb wird ganz normal über RaceHorology geöffnet und abgewickelt. Zusätzlich muss noch das Programm Raceengine.NET (https://www.raceengine.de/infocenter/raceenginenet.aspx) heruntergeladen und installiert werden. 
+
+In Raceengine.NET über Livetiming dann die selbe Bewerbsdatei auswählen, Durchgang und Bewerbstyp wählen, mit den Raceengine Logindaten verbinden und dann das Livetiming starten. 
+Die Zeiten aus RaceHorology werden übermittelt. 
+
 ###	FIS Live Timing
 
 ![fislivetimingconfiguration](../../assets/images/de/livetimingfis.png)
