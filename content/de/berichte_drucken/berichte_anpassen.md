@@ -14,7 +14,7 @@ Der Seitenkopf wird auf jeder Seite wiederholt und auch die Banner werden auf je
 
 ## Eigene Banner platzieren
 
-Es können eigene Banner auf den Ausdrucken platziert werden. Um dies zu tun, müssen entsprechende Bild-Dateien im Verzeichnis der Datendatei liegen. Es werden grundsätzlich alle gängigen Bildformate wie JPG, PNG, BMP unterstützt. Folgende Banner können angepasst werden:
+Es können eigene Banner auf den Ausdrucken platziert werden. Um dies zu tun, müssen entsprechende Bild-Dateien im Verzeichnis der Bewerbsdatei liegen. Es werden grundsätzlich alle gängigen Bildformate wie JPG, PNG, BMP unterstützt. Folgende Banner können angepasst werden:
 
 | Dateiname   | Optimale Breite | Optimale Höhe | Funktion                                                                                                         |
 | ----------- | --------------- | ------------- | ---------------------------------------------------------------------------------------------------------------- |
@@ -27,7 +27,7 @@ XXX entspricht der Dateiendung des Bildes. {.alert .alert-success}
 
 ## Eigene Logos platzieren
 
-Es können eigene Logos auf den Ausdrucken platziert werden. Um dies zu tun müssen entsprechende Bild-Dateien im Verzeichnis der Datendatei liegen. Es werden grundsätzlich alle gängigen Bildformate wie JPG, PNG, BMP unterstützt. Folgende Logos und Banner können angepasst werden:
+Es können eigene Logos auf den Ausdrucken platziert werden. Um dies zu tun müssen entsprechende Bild-Dateien im Verzeichnis der Bewerbsdatei liegen. Es werden grundsätzlich alle gängigen Bildformate wie JPG, PNG, BMP unterstützt. Folgende Logos und Banner können angepasst werden:
 
 | Dateiname | Optimale Breite | Optimale Höhe | Funktion                                                                                       |
 | --------- | --------------- | ------------- | ---------------------------------------------------------------------------------------------- |
