@@ -76,7 +76,7 @@ Ausnahme: Technikwettbewerbe werden alle Mädchen und alle Buben komplett zusamm
 
 ##### Kategorie 3
 
-- Mädchen zuerst, danach Buben (wenn nötig durch Jurientscheidung kippbar)
+- Mädchen zuerst, danach Buben (wenn nötig durch Juryentscheidung kippbar)
 - Jahrgang 2010 alle gelost
 - Danach Jahrgang 2009 erste 15 gelost, Rest nach Punkten
 - Danach Jahrgang 2008 und 2007 (U16) zusammen jeweils erste 15 gelost, Rest nach Punkten (bei weniger als 15 mit Punkten werden Schüler mit Punkten und ohne Punkte separat gelost - Punktefahrer fahren zuerst)

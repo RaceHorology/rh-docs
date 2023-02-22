@@ -21,13 +21,19 @@ Race Horology zeigt auf der rechten Hälfte unter dem Tab "Berichte und Drucken"
 
 -	Schiedsrichter Protokoll
 
-Der Bericht kann aktualisiert werden, wenn sich Änderungen ergeben haben. 
+- Zeitnehmer Checkliste
+
+- Urkunden
+
+Der Bericht kann aktualisiert werden, wenn sich Änderungen ergeben haben. Wenn weitere Optionen für einen Bericht zur Verfügung stehen (z.B. "2. Durchgang") ist es möglich dies ebenfalls festzulegen. 
+
+**Achtung:**{.badge .badge-danger .text-uppercase} Aktuell sind einige Ausgabewerte mit den Einstellungen unter dem Reiter "Live Listen" synchronisiert (z.B. Gruppierung). Sollte der Bericht nicht den gewünschten Inhalt haben, bitte hier erst andere Einstellungen vornehmen und dann den Bericht nochmal aktualisiert ausgeben. {.alert .alert-warning}
 
 ## Berichte exportieren
 
 Durch den Klick auf **Speichern (PDF)**{.btn .btn-secondary} lässt sich der Bericht als PDF-Datei exportieren. 
 
-Es öffnet sich ein Fenster zur Wahl des Speicherorts. 
+Es öffnet sich ein Fenster zur Wahl des Speicherorts.
 
 ## Berichte drucken
 
