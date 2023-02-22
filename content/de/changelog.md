@@ -4,44 +4,35 @@ eleventyNavigation:
   key: Änderungshistorie
   order: 12
 ---
+# Änderungshistorie / Changelog von offiziellen Versionen
 
-# Änderungshistorie / Changelog
+Beta- oder "Pre"-Releases werden hier nicht aufgeführt und können stattdessen direkt auf [Github](https://github.com/RaceHorology/RaceHorology/releases) eingesehen werden.
 
 ## 0.9.3
 
 **Datum:** 18.09.2022
 
-Achtung: Ab dieser Version gibt es einen Versionssprung. Die Zwischenversionen existieren nicht. 
+Achtung: Ab dieser Version gibt es einen Versionssprung. Die Zwischenversionen existieren nicht.
 
 **Neue Features und Verbesserungen**
 
 - Zeitmessung von Parallelslalom möglich (ALGE Programm 5 - Parallel Netto)
-
 - Übernahme der Renndaten (Streckendaten, Schiedrichter, ...) aus anderen Bewerben
-
 - Unterstützung der Zeitmessanlage Alpenhunde
-
 - Die Spalten in Tabellenansichten sind konfigurierbar
-
 - Anzeige von Disqualifikationsgründen auf rennmeldung.de
-
 - Export (Excel, CSV) enthält jetzt Totalzeit und Platzierung
-
 - Anzeige der aktiven Startnummer am ALGE Zeitmessgerät in der Software
 
 **DSV / FIS**
 
 - Standardwerte für die Punkteberechnung für DSV Schülerrennen
-
 - Punkteberechnung mit Adder korrigiert
-
 - Rundungsfehler bei Punkteberechnung behoben
-
 
 **Sonstige Bugfixes**
 
 - Bei Teilnehmer ändern wurden nicht immer alle Wert übernommen
-
 - kleinere Bugfixes bei der Startnummernzuweisung
 
 Die Detaillierte Liste der Änderungen ist hier: [Link](https://github.com/RaceHorology/RaceHorology/issues?q=closed%3A2022-01-21..2022-09-17+sort%3Aupdated-desc+is%3Aissue+)
@@ -55,19 +46,14 @@ Folgende Änderungen sind in dieser Version seit der Version 0.4.5 enthalten:
 **Neue Features**
 
 - Classement Empfang der ALGE TdC8000/8001
-
 - Bewerbe erstellt mit RaceHorology können in DSVAlpinX bzw. DSVAlpin geöffnet werden
 
 **User Interface Verbesserungen**
 
 - Hauptfenster wird im Vollbildmodus gestartet bzw. die letzte Fensterposition wird gespeichert
-
 - Einschränkung der Suche in DSV/FIS Listen nach Feld
-
 - Hinweise / Warnung falls Zeitnahme online geht und vorheriger Durchgang nicht abgeschlossen wurde
-
 - kleiner UI Verbesserungen im Zeitnahme / Livetiming Tab
-
 - Livetiming Konfiguration kann gespeichert werden ohne Livetiming zu starten
 
 **DSV / FIS**
@@ -77,21 +63,14 @@ Folgende Änderungen sind in dieser Version seit der Version 0.4.5 enthalten:
 **Sonstige Bugfixes**
 
 - Livetiming für rennmeldung.de benötigt keine DSVAlpinX Lizenz mehr
-
 - Verbesserung der Kompatibilität mit DSVAlpin wenn Bewerbe in Race Horology angelegt werden
-  
+
   Hierbei: Einführung einer globalen Konfiguration
-
 - Auslosungsbuttons sind bei kleinem Bildschirm nicht sichtbar
-
 - Rennpunkte erscheinen auf Ergebnisliste nicht, wenn Bewerb frisch geladen wurde
-
 - Listentitel erscheint manchmal nicht komplett (i.B. bei mehr als zwei Zeilen)
-
 - Rennkonfiguration usw. werden in der Datenbank direkt gespeichert (keine separaten Files mehr)
-
 - Startreihenfolge bei DSV Schülerrennen für die 2. und nachfolgende Gruppe war komplett falsch
-
 - Korrektur der Startreihenfolge im 2. Durchgang bei gleicher Platzierung im 1. DG
 
 Die Detaillierte Liste der Änderungen ist hier: [Link](https://github.com/RaceHorology/RaceHorology/issues?q=closed%3A2021-11-19..2022-01-20+sort%3Aupdated-desc+is%3Aissue+)
@@ -179,7 +158,7 @@ BUGFIX: Einige Abstürze behoben
 
 **Zeitnahme:**
 
-GEÄNDERT: Zeitnahmebildschirm: Startliste sollte vorherige Laufzeit anzeigen enhancement 
+GEÄNDERT: Zeitnahmebildschirm: Startliste sollte vorherige Laufzeit anzeigen enhancement
 
 GEÄNDERT: Sortierung der Listen auf dem Zeitnahmebildschirm enhancement
 
@@ -191,7 +170,7 @@ GEÄNDERT: Zeitnahmebildschirm: "In Ziel" Liste ist manchmal nicht richtig sorti
 
 BUGFIX: Abstürze in ALGE Kommunikation bug minor
 
-NEU: Unbekannter Läufer automatisch hinzufügen enhancement 
+NEU: Unbekannter Läufer automatisch hinzufügen enhancement
 
 **Import & Export**
 
@@ -269,16 +248,16 @@ Detaillierte Liste der Änderungen (seit 0.3.0-alpha.2): [Link](https://github.c
 
 Detaillierte Liste der Änderungen (seit 0.2.0): [Link](https://github.com/RaceHorology/RaceHorology/issues?q=closed%3A2020-02-24..2020-12-31+sort%3Aupdated-desc)
 
-
 ## 0.3.0-alpha.2
 
 **Datum:** 07.12.2020
 
-NEU: Ersatz- / Handzeitberechnung 
+NEU: Ersatz- / Handzeitberechnung
 
-NEU: Laden der Handzeit via 
--	ALGE Timy 
--	Tag Heuer PocketPro
+NEU: Laden der Handzeit via
+
+- ALGE Timy
+- Tag Heuer PocketPro
 
 NEU: DSV Listen Import und Übernehmen von Teilnehmern in den Bewerb
 
@@ -304,8 +283,8 @@ NEU: Editieren mehrerer Teilnehmer gleichzeitig
 
 NEU: Importieren von Teilnehmern via
 
--	CSV
--	Excel
+- CSV
+- Excel
 
 NEU: Startnummernvergabe
 

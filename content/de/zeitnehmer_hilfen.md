@@ -4,15 +4,15 @@ eleventyNavigation:
   key: Hilfen für Zeitnehmer
   order: 13
 ---
-
 # Hilfe für Zeitnehmer Saison 2022/2023
 
 Diese Seite enthält wichtige Informationen und Nachschlagewerte für Zeitnehmer
 
 ## F-Werte
 
+
 | Rennart         | Wert |
-| --------------- | ---- |
+| ----------------- | ------ |
 | Slalom          | 730  |
 | Riesenslalom    | 1010 |
 | Super-G         | 1190 |
@@ -24,16 +24,17 @@ Diese Seite enthält wichtige Informationen und Nachschlagewerte für Zeitnehmer
 
 ### Rennschlüssel für offizielle DSV-Rennen
 
+
 | Nr. Verband/Gau |  Lfd. Nummer  | Geschlecht | Disziplinkürzel | Geschlecht | Disziplinkürzel |
-| --------------- |:-------------:|:----------:|:---------------:|:----------:|:---------------:|
-| 01-39=LSV/Gaue  | chronologisch |  D=Damen   | R=Riesenslalom  |  H=Herren  | R=Riesenslalom  |
-| 50=DHS          |      im       |  M=Mädchen |    S=Slalom     |  B=Buben   |    S=Slalom     |
-| 60=Liga         |   Kalender    |            |   X=Skicross    |            |   X=Skicross    |
-| 70=DSL          |               |            |                 |            |                 |
-| 80=Skicross     |               |            |                 |            |                 |
-|                 |               |            |                 |            |                 |
-| **Beispiel**    |               |            |                 |            |                 |
-| 70              |      01       |     D      |        R        |     H      |        R        |
+| ----------------- | :-------------: | :----------: | :----------------: | :----------: | :----------------: |
+| 01-39=LSV/Gaue  | chronologisch |  D=Damen  |  R=Riesenslalom  |  H=Herren  |  R=Riesenslalom  |
+| 50=DHS          |      im      | M=Mädchen |     S=Slalom     |  B=Buben  |     S=Slalom     |
+| 60=Liga         |   Kalender   |           |    X=Skicross    |           |    X=Skicross    |
+| 70=DSL          |               |           |    T=Technik    |           |    T=Technik    |
+| 80=Skicross     |               |           |                 |           |                 |
+|                 |               |           |                 |           |                 |
+| **Beispiel**    |               |           |                 |           |                 |
+| 70              |      01      |     D     |        R        |     H     |        R        |
 
 {.table .table-bordered .table-striped}
 
@@ -85,24 +86,26 @@ Ausnahme: Technikwettbewerbe werden alle Mädchen und alle Buben komplett zusamm
 
 ##### Mindestzuschläge
 
-| Kategorie   |                            | Mindestzuschlag     |
-| ----------- | -------------------------- | ------------------- |
-| Kategorie 1 | DSV-Schülercup U14 und U16 | 0                   |
-| Kategorie 2 | ARGE-Meisterschaft         | 10                  |
-| Kategorie 3 | Parallelrennen             | 30                  |
-| "           | Indoor                     | 30                  |
-| "           | alle anderen               | 25                  |
-| Punkterennen Jugend/Senioren | alle Bewerbe | 60 |
+
+| Kategorie                    |                             | Mindestzuschlag |
+| ------------------------------ | ----------------------------- | ----------------- |
+| Kategorie 1                  | DSV-Schülercup U14 und U16 | 0               |
+| Kategorie 2                  | ARGE-Meisterschaft          | 10              |
+| Kategorie 3                  | Parallelrennen              | 30              |
+| "                            | Indoor                      | 30              |
+| "                            | alle anderen                | 25              |
+| Punkterennen Jugend/Senioren | alle Bewerbe                | 60              |
 
 {.table .table-bordered .table-striped}
 
 ##### Adder DSV Schülerpunkterennen
 
-|                                      | Adder |
-| ------------------------------------ | ----- |
+
+|                                       | Adder |
+| --------------------------------------- | ------- |
 | Riesenslalom mit 140-199 Höhenmeter* | 10    |
-| Rennen an falschem Termin            | 5     |
-| Nur 1 Durchgang (z.B. Rennabbruch)   | 10    |
+| Rennen an falschem Termin             | 5     |
+| Nur 1 Durchgang (z.B. Rennabbruch)    | 10    |
 
 {.table .table-bordered .table-striped}
 
@@ -112,8 +115,9 @@ Es ist auch möglich 2 Adder anzuwenden. Adder werden auf den berechneten Zuschl
 
 ##### Adder DSV Punkterennen Junioren/Senioren
 
-|                                      | Adder |
-| ------------------------------------ | ----- |
+
+|                                       | Adder |
+| --------------------------------------- | ------- |
 | Riesenslalom mit 140-199 Höhenmeter* | 10    |
 
 {.table .table-bordered .table-striped}
