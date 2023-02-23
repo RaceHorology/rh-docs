@@ -34,7 +34,7 @@ rennmeldung.de stellt für Tests Zugangsdaten zur Verfügung. Diese sind: Bewerb
 
 ### Raceengine LiveTiming
 
-Sollte der Bewerb über raceegine.de abgewickelt werden, ist das LiveTiming auch mit RaceHorology möglich. Dies wurde auch getestet. 
+Sollte der Bewerb über raceeNgine.de abgewickelt werden, ist das LiveTiming auch mit RaceHorology möglich. Dies wurde auch getestet. 
 
 Der Bewerb wird ganz normal über RaceHorology geöffnet und abgewickelt. Zusätzlich muss noch das Programm Raceengine.NET (https://www.raceengine.de/infocenter/raceenginenet.aspx) heruntergeladen und installiert werden. 
 
