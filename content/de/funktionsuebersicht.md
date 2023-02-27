@@ -21,7 +21,7 @@ Die Zeitnahme ist aktuell mit ALGE TdC 8000/8001, ALGE Timy (Serial und USB) sow
 
 - Transparente Rennkonfiguration
 
-- Einfacher Berichtedruck inklusive Schiedsrichter-Report
+- Einfacher Berichtedruck inklusive Schiedsrichter-Report, Zeitnehmer-Checkliste und Urkunden
 
 ![Aktueller Stand)](../../assets/images/de/aktuellerstand.png)
 

@@ -63,7 +63,7 @@ Nach dem Rennen (bis spätestens 21 Uhr) die generierte XML-Datei an [andreas.ki
 - Jüngerer Jahrgang zuerst, eine Gruppe alle gelost
 - Älterer Jahrgang jeweils erste 15 gelost, Rest nach Punkten
 
-Ausnahme: Technikwettbewerbe werden alle Mädchen und alle Buben komplett zusammen gelost!
+Ausnahme: Technikwettbewerbe werden alle Mädchen und alle Buben jeweils komplett zusammen gelost!
 
 ##### Deutsche Schülermeisterschaft  (Kat. 1)
 
