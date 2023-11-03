@@ -46,7 +46,7 @@ RaceHorology kann als Hilfe für den Zeitnehmer eine Startuhrfunktion imitieren.
 
 ### Unbekannte Teilnehmer
 
-Sollte eine Datenübertrag vom Zeitmessgerät mit einer Startnummer eingehen, welche derzeit nicht erfasst ist, so wird automatisch ein Teilnehmer generiert. 
+Sollte eine Datenübertragung vom Zeitmessgerät mit einer Startnummer eingehen, welche derzeit nicht erfasst ist, so wird automatisch ein Teilnehmer generiert. 
 
 ## Standardwerte
 
