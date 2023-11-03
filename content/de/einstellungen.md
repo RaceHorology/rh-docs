@@ -56,4 +56,4 @@ Sollte eine Startnummer nicht vorhanden sein, so ist es möglich diese automatis
 
 ## Update
 
-Nähere Informationen unter https://docs.race-horology.com/de/installation.html#programm-aktualisieren-(update)
+Nähere Informationen unter ![Update](../../de/installation.html#programm-aktualisieren-(update))
