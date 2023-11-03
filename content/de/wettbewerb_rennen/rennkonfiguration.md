@@ -43,6 +43,12 @@ Es wird nur die Beste Zeit aus allen Durchgängen gewertet.
 
 Die 2 besten Zeiten aus allen Durchgängen werden gewertet.
 
+###### 2x Best of 2
+
+Es gibt 4 Durchgänge (z.B. Jeder Läufer absolviert 2 mal den linken Kurs und 2 mal den rechten Kurs). Die Bestzeit aus den ersten beiden Läufen und aus den letzten beiden Läufen werden gewertet.
+
+Es sollten bei dieser Berechnungsart 4 Durchgänge konfiguriert werden. {.alert .alert-success}
+
 ###### Summe
 
 Die Zeiten aus allen Durchgängen werden zusammengerechnet.
