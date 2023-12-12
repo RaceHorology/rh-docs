@@ -4,7 +4,7 @@ eleventyNavigation:
   key: Hilfen für Zeitnehmer
   order: 13
 ---
-# Hilfe für Zeitnehmer Saison 2022/2023
+# Hilfe für Zeitnehmer Saison 2023/2024
 
 Diese Seite enthält wichtige Informationen und Nachschlagewerte für Zeitnehmer
 
@@ -78,9 +78,9 @@ Ausnahme: Technikwettbewerbe werden alle Mädchen und alle Buben jeweils komplet
 ##### Kategorie 3
 
 - Mädchen zuerst, danach Buben (wenn nötig durch Juryentscheidung kippbar)
-- Jahrgang 2010 alle gelost
-- Danach Jahrgang 2009 erste 15 gelost, Rest nach Punkten
-- Danach Jahrgang 2008 und 2007 (U16) zusammen jeweils erste 15 gelost, Rest nach Punkten (bei weniger als 15 mit Punkten werden Schüler mit Punkten und ohne Punkte separat gelost - Punktefahrer fahren zuerst)
+- Jahrgang 2011 alle gelost
+- Danach Jahrgang 2010 erste 15 gelost, Rest nach Punkten
+- Danach Jahrgang 2009 und 2008 (U16) zusammen jeweils erste 15 gelost, Rest nach Punkten (bei weniger als 15 mit Punkten werden Schüler mit Punkten und ohne Punkte separat gelost - Punktefahrer fahren zuerst)
 
 #### Punkteberechnung
 
