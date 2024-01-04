@@ -20,6 +20,31 @@ Diese Seite enthält wichtige Informationen und Nachschlagewerte für Zeitnehmer
 
 {.table .table-bordered .table-striped}
 
+## Jahrgänge
+
+
+| Altersklasse                | Bezeichnung | Jahrgang  |
+| ----------------------------- | ------------- | ----------- |
+|                             | U 6         | 2019-2018 |
+| Schüler männlich/weiblich | U 8         | 2017-2016 |
+|                             | U 9         | 2015      |
+|                             | U 10        | 2014      |
+|                             | U 11        | 2013      |
+|                             | U 12        | 2012      |
+|                             | U 14        | 2011-2010 |
+|                             | U 16        | 2009-2008 |
+| Jugend männlich/weiblich   | U 18        | 2007-2006 |
+| Junioren männlich/weiblich | U 21        | 2005-2004 |
+| Senioren männlich/weiblich | 22          | 2002-1994 |
+|                             | 31          | 1993-1984 |
+|                             | 41          | 1983-1974 |
+|                             | 51          | 1973-1964 |
+|                             | 61          | 1963-1959 |
+|                             | 65          | 1958-1954 |
+|                             | 71          | 1953-1947 |
+
+{.table .table-bordered .table-striped}
+
 ## DSV-spezifisch
 
 ### Rennschlüssel für offizielle DSV-Rennen
