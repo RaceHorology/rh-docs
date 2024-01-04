@@ -16,7 +16,7 @@ Diese Seite enthält wichtige Informationen und Nachschlagewerte für Zeitnehmer
 | Slalom          | 730  |
 | Riesenslalom    | 1010 |
 | Super-G         | 1190 |
-| Parallel-Rennen | 1190 |
+| Parallel-Slalom | 730 |
 
 {.table .table-bordered .table-striped}
 
