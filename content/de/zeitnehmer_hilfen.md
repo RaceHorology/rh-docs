@@ -16,7 +16,9 @@ Diese Seite enthält wichtige Informationen und Nachschlagewerte für Zeitnehmer
 | Slalom          | 730  |
 | Riesenslalom    | 1010 |
 | Super-G         | 1190 |
-| Parallel-Slalom | 730 |
+| Abfahrt         | 1250 |
+| Parallel-Slalom Schüler | 1190 |
+| Parallel-Slalom Jugend/Senioren | 730 |
 
 {.table .table-bordered .table-striped}
 
