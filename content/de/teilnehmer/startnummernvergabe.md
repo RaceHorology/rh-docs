@@ -57,7 +57,7 @@ Dies kann nach Klasse, Gruppe, Geschlecht oder aber auch gar keiner Gruppierung 
 
 -	Geben Sie die Verlosungszahl an (sofern gewünscht).
 
-Die Verlosungszahl gibt an, wieviel Teilnehmer via Zufall verlost werden. Die restlichen Teilnehmer einer Gruppe werden entsprechend der Punkte absteigend oder aufsteigend sortiert zugeteilt. Ist die Verlosungszahl nicht angegeben, so werden alle Teilnehmer verlost.
+Die Verlosungszahl gibt an, wieviel Teilnehmer via Zufall verlost werden. Die restlichen Teilnehmer einer Gruppe werden entsprechend der Punkte absteigend oder aufsteigend sortiert zugeteilt. Ist die Verlosungszahl nicht angegeben oder ist größer als die Anzahl der Teilnehmer in der aktuellen Verlosung, so werden alle Teilnehmer verlost. Bei einer Verlosungszahl von 0 so wird kein Teilnehmer gelost und die Startnummern nach dem Wert der Punkte vergeben. 
 
 -	Geben Sie die Sortierrichtung an.
 
