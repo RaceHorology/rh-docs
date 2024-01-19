@@ -22,7 +22,7 @@ Beim Jahrgang kann auch das Alter angegeben werden. Das Alter wird in die entspr
 
 Die Änderungen werden erst nach dem Drücken von **Speichern**{.btn .btn-secondary} übernommen. {.alert .alert-success}
 
-Über **Jahrgang + 1**{.btn .btn-secondary} bzw. **Jahrgang - 1**{.btn .btn-secondary} ist es möglich die Jährgänge aller Klassen zu erhöhen oder zu verringern - dies ist sinnvoll wenn Klassen aus einem früheren Jahr importiert werden.
+Über **Jahrgang + 1**{.btn .btn-secondary} bzw. **Jahrgang - 1**{.btn .btn-secondary} ist es möglich die Jährgänge aller Klassen zu erhöhen oder zu verringern - dies ist sinnvoll wenn Klassen aus einem früheren Jahr importiert werden. Zusätzlich wird auch, der Text der Klasse mit geändert (sofern der Text einer Klasse den Jahrgang enthält).
 
 ##	Erstellen und Editieren von Kategorien (Geschlecht)
 
