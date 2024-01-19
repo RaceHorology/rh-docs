@@ -18,6 +18,7 @@ Tester oder Experiementierfreudige finden die Beta-Versionen direkt auf [GitHub]
 
 - Unterstützte Betriebssysteme: Windows 10, Windows 11
 - .NET Framework 4.6.2 ([kann hier heruntergeladen wenn nötig](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net462-web-installer))
+- .NET Framework 4.8 ([kann hier heruntergeladen wenn nötig](https://go.microsoft.com/fwlink/?linkid=2088631))
 - Freier Speicherplatz: 500 MB
 - Für Livetiming oder Download von Punktelisten: Netzwerkkarte (Funk oder Kabelgebunden) mit Internetverbindung. 
 - Für Externe Anzeige: Netzwerkkarte (Funk oder Kabelgebunden) mit lokalem Netzwerk.
