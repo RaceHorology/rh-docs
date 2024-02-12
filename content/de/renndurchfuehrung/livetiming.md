@@ -12,6 +12,10 @@ eleventyNavigation:
 
 Race Horology unterstützt verschiedene Live Timing Plattformen um das Renngeschehen für die Zuschauer sofort sichtbar zu machen.
 
+![livetimingstatus](../../assets/images/de/livetimingstatus.png)
+
+Weiterhin ist es möglich einen Status bzw. Kommentar für die Zuschauer zu hinterlassen. Geben Sie diesen in dem unteren Feld „Statustext für Online Livetiming“ ein. Der Text wird automatisch übertragen. Alterativ ist es möglich bereits vordefinierte Texte aus der Auswahlbox auszuwählen. 
+
 ###	rennmeldung.de
 
 ![rennmeldung](../../assets/images/de/rennmeldung.png)
@@ -25,10 +29,6 @@ Um das Livetiming von https://rennmeldung.de zu nutzen gehen Sie wie folgt vor:
 -	Drücken Sie **Start**{.btn .btn-secondary}.
 
 Jede Änderung, die ab sofort passiert, wird unmittelbar an rennmeldung.de übertragen und ist somit für die renninteressierten Zuschauer sofort sichtbar.
-
-![livetimingstatus](../../assets/images/de/livetimingstatus.png)
-
-Weiterhin ist es möglich einen Status bzw. Kommentar für die Zuschauer zu hinterlassen. Geben Sie diesen in dem unteren Feld „Live Timing – Status“ ein. Der Text wird automatisch übertragen.
 
 rennmeldung.de stellt für Tests Zugangsdaten zur Verfügung. Diese sind: Bewerbsnummer "01122" und Login/Password "livetiming". Bitte beachten, dass es möglich ist, dass bereits andere Benutzer diesen Testbewerb nutzen und es so zu Überschneidungen kommen kann. 
 
