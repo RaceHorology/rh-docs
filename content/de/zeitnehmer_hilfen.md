@@ -4,7 +4,7 @@ eleventyNavigation:
   key: Hilfen für Zeitnehmer
   order: 13
 ---
-# Hilfe für Zeitnehmer Saison 2023/2024
+# Hilfe für Zeitnehmer Saison 2024/2025
 
 Diese Seite enthält wichtige Informationen und Nachschlagewerte für Zeitnehmer
 
@@ -17,8 +17,8 @@ Diese Seite enthält wichtige Informationen und Nachschlagewerte für Zeitnehmer
 | Riesenslalom    | 1010 |
 | Super-G         | 1190 |
 | Abfahrt         | 1250 |
-| Parallel-Slalom Schüler | 1190 |
-| Parallel-Slalom Jugend/Senioren | 730 |
+| Parallel-Slalom | 1190 |
+| Kombi           | 1360 |
 
 {.table .table-bordered .table-striped}
 
@@ -27,23 +27,23 @@ Diese Seite enthält wichtige Informationen und Nachschlagewerte für Zeitnehmer
 
 | Altersklasse                | Bezeichnung | Jahrgang  |
 | ----------------------------- | ------------- | ----------- |
-|                             | U 6         | 2019-2018 |
-| Schüler männlich/weiblich | U 8         | 2017-2016 |
-|                             | U 9         | 2015      |
-|                             | U 10        | 2014      |
-|                             | U 11        | 2013      |
-|                             | U 12        | 2012      |
-|                             | U 14        | 2011-2010 |
-|                             | U 16        | 2009-2008 |
-| Jugend männlich/weiblich   | U 18        | 2007-2006 |
-| Junioren männlich/weiblich | U 21        | 2005-2004 |
-| Senioren männlich/weiblich | 22          | 2002-1994 |
-|                             | 31          | 1993-1984 |
-|                             | 41          | 1983-1974 |
-|                             | 51          | 1973-1964 |
-|                             | 61          | 1963-1959 |
-|                             | 65          | 1958-1954 |
-|                             | 71          | 1953-1947 |
+|                             | U 6         | 2020-2019 |
+| Schüler männlich/weiblich | U 8         | 2018-2017 |
+|                             | U 9         | 2016      |
+|                             | U 10        | 2015      |
+|                             | U 11        | 2014      |
+|                             | U 12        | 2013      |
+|                             | U 14        | 2012-2011 |
+|                             | U 16        | 2010-2009 |
+| Jugend männlich/weiblich   | U 18        | 2008-2007 |
+| Junioren männlich/weiblich | U 21        | 2006-2005 |
+| Senioren männlich/weiblich | 22          | 2003-1995 |
+|                             | 31          | 1994-1985 |
+|                             | 41          | 1984-1975 |
+|                             | 51          | 1974-1965 |
+|                             | 61          | 1964-1960 |
+|                             | 65          | 1959-1955 |
+|                             | 71          | 1954-1948 |
 
 {.table .table-bordered .table-striped}
 
@@ -105,9 +105,9 @@ Ausnahme: Technikwettbewerbe werden alle Mädchen und alle Buben jeweils komplet
 ##### Kategorie 3
 
 - Mädchen zuerst, danach Buben (wenn nötig durch Juryentscheidung kippbar)
-- Jahrgang 2011 alle gelost
-- Danach Jahrgang 2010 erste 15 gelost, Rest nach Punkten
-- Danach Jahrgang 2009 und 2008 (U16) zusammen jeweils erste 15 gelost, Rest nach Punkten (bei weniger als 15 mit Punkten werden Schüler mit Punkten und ohne Punkte separat gelost - Punktefahrer fahren zuerst)
+- Jahrgang 2012 alle gelost
+- Danach Jahrgang 20110 erste 15 gelost, Rest nach Punkten
+- Danach Jahrgang 2010 und 2009 (U16) zusammen jeweils erste 15 gelost, Rest nach Punkten (bei weniger als 15 mit Punkten werden Schüler mit Punkten und ohne Punkte separat gelost - Punktefahrer fahren zuerst)
 
 #### Punkteberechnung
 
